@@ -1,0 +1,22 @@
+{
+  "testimonials": [
+    {
+      "name": "Emma & David Thompson",
+      "text": "Working with John was the best decision we made for our wedding. He captured every precious moment with such artistry and emotion. The final video brings tears to our eyes every time we watch it.",
+      "photo": "https://images.unsplash.com/photo-1623091411395-09e79fdbfcf5",
+      "category": "Wedding"
+    },
+    {
+      "name": "Michael Chen",
+      "text": "The promotional video John created for our resort exceeded all expectations. His attention to detail and creative vision helped us showcase our property in ways we never imagined possible.",
+      "photo": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d",
+      "category": "Promo"
+    },
+    {
+      "name": "Sarah Williams",
+      "text": "John has an incredible talent for storytelling through video. He transformed our brand's message into a compelling visual narrative that resonated deeply with our audience.",
+      "photo": "https://images.unsplash.com/photo-1494790108377-be9c29b29330",
+      "category": "Showcase"
+    }
+  ]
+}
