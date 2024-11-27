@@ -14,8 +14,8 @@
         "en": "Exploring the vibrant culture and stunning landscapes of Hong Kong and China.",
         "cz": "Objevování živé kultury a úchvatné krajiny Hong Kongu a Číny."
       },
-      "videoUrl": "https://cdn-video.trnka.one/FG2024Brno.mp4",
-      "thumbnail": "https://images.unsplash.com/photo-1533682805518-48d1f5b8cd3a",
+      "videoUrl": "https://cdn-video.trnka.one/01.mp4",
+      "thumbnail": "https://cdn-video.trnka.one/thumbnails/01.jpg",
       "category": "Travel",
       "date": "2024-01-15"
     },
@@ -33,8 +33,8 @@
         "en": "Discovering the natural beauty of Czech Paradise.",
         "cz": "Objevování přírodních krás Českého ráje."
       },
-      "videoUrl": "https://player.vimeo.com/video/225434434",
-      "thumbnail": "https://images.unsplash.com/photo-1589723933707-9a612becc829",
+      "videoUrl": "https://cdn-video.trnka.one/02.mp4",
+      "thumbnail": "https://cdn-video.trnka.one/thumbnails/02.jpg",
       "category": "Travel",
       "date": "2024-01-10"
     },
@@ -52,8 +52,8 @@
         "en": "Exploring the stunning Adriatic coast and historic cities.",
         "cz": "Objevování úchvatného jadranského pobřeží a historických měst."
       },
-      "videoUrl": "https://player.vimeo.com/video/225434434",
-      "thumbnail": "https://images.unsplash.com/photo-1555990538-17e8458f9269",
+      "videoUrl": "https://cdn-video.trnka.one/03.mp4",
+      "thumbnail": "https://cdn-video.trnka.one/thumbnails/03.jpg",
       "category": "Travel",
       "date": "2024-01-05"
     },
@@ -71,8 +71,8 @@
         "en": "Capturing the spirit and culture of Ukraine's capital.",
         "cz": "Zachycení ducha a kultury ukrajinského hlavního města."
       },
-      "videoUrl": "https://player.vimeo.com/video/225434434",
-      "thumbnail": "https://images.unsplash.com/photo-1576624884023-0875a35be060",
+      "videoUrl": "https://cdn-video.trnka.one/04.mp4",
+      "thumbnail": "https://cdn-video.trnka.one/thumbnails/04.jpg",
       "category": "Travel",
       "date": "2023-12-20"
     },
@@ -90,8 +90,8 @@
         "en": "Exploring the haunting legacy of the Chernobyl exclusion zone.",
         "cz": "Objevování znepokojivého odkazu černobylské zakázané zóny."
       },
-      "videoUrl": "https://player.vimeo.com/video/225434434",
-      "thumbnail": "https://images.unsplash.com/photo-1576678927484-cc907957088c",
+      "videoUrl": "https://cdn-video.trnka.one/05.mp4",
+      "thumbnail": "https://cdn-video.trnka.one/thumbnails/05.jpg",
       "category": "Travel",
       "date": "2023-12-15"
     },
@@ -109,8 +109,8 @@
         "en": "A beautiful wedding celebration filled with love and joy.",
         "cz": "Krásná svatební oslava plná lásky a radosti."
       },
-      "videoUrl": "https://player.vimeo.com/video/225434434",
-      "thumbnail": "https://images.unsplash.com/photo-1583939003579-730e3918a45a",
+      "videoUrl": "https://cdn-video.trnka.one/06.mp4",
+      "thumbnail": "https://cdn-video.trnka.one/thumbnails/06.jpg",
       "category": "Wedding",
       "date": "2023-12-10"
     },
@@ -128,8 +128,8 @@
         "en": "Showcasing excellence in business and innovation.",
         "cz": "Prezentace excelence v podnikání a inovacích."
       },
-      "videoUrl": "https://player.vimeo.com/video/225434434",
-      "thumbnail": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab",
+      "videoUrl": "https://cdn-video.trnka.one/07.mp4",
+      "thumbnail": "https://cdn-video.trnka.one/thumbnails/07.jpg",
       "category": "Promo",
       "date": "2023-12-05"
     },
@@ -147,8 +147,8 @@
         "en": "Exploring the natural beauty of Babí Lom.",
         "cz": "Objevování přírodních krás Babího Lomu."
       },
-      "videoUrl": "https://player.vimeo.com/video/225434434",
-      "thumbnail": "https://images.unsplash.com/photo-1501785888041-af3ef285b470",
+      "videoUrl": "https://cdn-video.trnka.one/08.mp4",
+      "thumbnail": "https://cdn-video.trnka.one/thumbnails/08.jpg",
       "category": "Travel",
       "date": "2023-11-30"
     },
@@ -166,8 +166,8 @@
         "en": "Discovering the vibrant culture of London.",
         "cz": "Objevování živé kultury Londýna."
       },
-      "videoUrl": "https://player.vimeo.com/video/225434434",
-      "thumbnail": "https://images.unsplash.com/photo-1513635269975-59663e0ac1ad",
+      "videoUrl": "https://cdn-video.trnka.one/09.mp4",
+      "thumbnail": "https://cdn-video.trnka.one/thumbnails/09.jpg",
       "category": "Travel",
       "date": "2023-11-25"
     },
@@ -185,15 +185,15 @@
         "en": "A romantic wedding in a historic venue.",
         "cz": "Romantická svatba v historických prostorách."
       },
-      "videoUrl": "https://player.vimeo.com/video/225434434",
-      "thumbnail": "https://images.unsplash.com/photo-1519741497674-611481863552",
+      "videoUrl": "https://cdn-video.trnka.one/10.mp4",
+      "thumbnail": "https://cdn-video.trnka.one/thumbnails/10.jpg",
       "category": "Wedding",
       "date": "2023-11-20"
     },{
-      "id": "1",
+      "id": "11",
       "title": {
-        "en": "Hong Kong & China",
-        "cz": "Hong Kong & Čína"
+        "en": "Prochy Racing 86 Autocross",
+        "cz": "Prochy Racing 86 Autocross"
       },
       "description": {
         "en": "Travel documentary",
@@ -203,16 +203,16 @@
         "en": "Exploring the vibrant culture and stunning landscapes of Hong Kong and China.",
         "cz": "Objevování živé kultury a úchvatné krajiny Hong Kongu a Číny."
       },
-      "videoUrl": "https://player.vimeo.com/video/225434434",
-      "thumbnail": "https://images.unsplash.com/photo-1533682805518-48d1f5b8cd3a",
-      "category": "Travel",
+      "videoUrl": "https://cdn-video.trnka.one/11.mp4",
+      "thumbnail": "https://cdn-video.trnka.one/thumbnails/11.jpg",
+      "category": "Promo",
       "date": "2024-01-15"
     },
     {
-      "id": "2",
+      "id": "12",
       "title": {
-        "en": "Český Ráj",
-        "cz": "Český Ráj"
+        "en": "Japonsko",
+        "cz": "Japonsko"
       },
       "description": {
         "en": "Travel documentary",
@@ -222,16 +222,16 @@
         "en": "Discovering the natural beauty of Czech Paradise.",
         "cz": "Objevování přírodních krás Českého ráje."
       },
-      "videoUrl": "https://player.vimeo.com/video/225434434",
-      "thumbnail": "https://images.unsplash.com/photo-1589723933707-9a612becc829",
+      "videoUrl": "https://cdn-video.trnka.one/12.mp4",
+      "thumbnail": "https://cdn-video.trnka.one/thumbnails/12.jpg",
       "category": "Travel",
       "date": "2024-01-10"
     },
     {
-      "id": "3",
+      "id": "13",
       "title": {
-        "en": "Croatia",
-        "cz": "Chorvatsko"
+        "en": "Martička & Petr",
+        "cz": "Martička & Petr"
       },
       "description": {
         "en": "Travel documentary",
@@ -241,16 +241,16 @@
         "en": "Exploring the stunning Adriatic coast and historic cities.",
         "cz": "Objevování úchvatného jadranského pobřeží a historických měst."
       },
-      "videoUrl": "https://player.vimeo.com/video/225434434",
-      "thumbnail": "https://images.unsplash.com/photo-1555990538-17e8458f9269",
-      "category": "Travel",
+      "videoUrl": "https://cdn-video.trnka.one/13.mp4",
+      "thumbnail": "https://cdn-video.trnka.one/thumbnails/13.jpg",
+      "category": "Wedding",
       "date": "2024-01-05"
     },
     {
-      "id": "4",
+      "id": "14",
       "title": {
-        "en": "Kiev",
-        "cz": "Kyjev"
+        "en": "Leontýnka & Tomáš",
+        "cz": "Leontýnka & Tomáš"
       },
       "description": {
         "en": "Travel documentary",
@@ -260,16 +260,16 @@
         "en": "Capturing the spirit and culture of Ukraine's capital.",
         "cz": "Zachycení ducha a kultury ukrajinského hlavního města."
       },
-      "videoUrl": "https://player.vimeo.com/video/225434434",
-      "thumbnail": "https://images.unsplash.com/photo-1576624884023-0875a35be060",
-      "category": "Travel",
+      "videoUrl": "https://cdn-video.trnka.one/14.mp4",
+      "thumbnail": "https://cdn-video.trnka.one/thumbnails/14.jpg",
+      "category": "Wedding",
       "date": "2023-12-20"
     },
     {
-      "id": "5",
+      "id": "15",
       "title": {
-        "en": "Chernobyl",
-        "cz": "Černobyl"
+        "en": "SMS Champions League 2016",
+        "cz": "SMS Champions League 2016"
       },
       "description": {
         "en": "Documentary",
@@ -279,16 +279,16 @@
         "en": "Exploring the haunting legacy of the Chernobyl exclusion zone.",
         "cz": "Objevování znepokojivého odkazu černobylské zakázané zóny."
       },
-      "videoUrl": "https://player.vimeo.com/video/225434434",
-      "thumbnail": "https://images.unsplash.com/photo-1576678927484-cc907957088c",
-      "category": "Travel",
+      "videoUrl": "https://cdn-video.trnka.one/15.mp4",
+      "thumbnail": "https://cdn-video.trnka.one/thumbnails/15.jpg",
+      "category": "Promo",
       "date": "2023-12-15"
     },
     {
-      "id": "6",
+      "id": "16",
       "title": {
-        "en": "Martina & Ondra",
-        "cz": "Martina & Ondra"
+        "en": "Anička & Pavel",
+        "cz": "Anička & Pavel"
       },
       "description": {
         "en": "Wedding celebration",
@@ -298,16 +298,16 @@
         "en": "A beautiful wedding celebration filled with love and joy.",
         "cz": "Krásná svatební oslava plná lásky a radosti."
       },
-      "videoUrl": "https://player.vimeo.com/video/225434434",
-      "thumbnail": "https://images.unsplash.com/photo-1583939003579-730e3918a45a",
+      "videoUrl": "https://cdn-video.trnka.one/16.mp4",
+      "thumbnail": "https://cdn-video.trnka.one/thumbnails/16.jpg",
       "category": "Wedding",
       "date": "2023-12-10"
     },
     {
-      "id": "7",
+      "id": "17",
       "title": {
-        "en": "Gemini Pohořelice",
-        "cz": "Gemini Pohořelice"
+        "en": "Veronika & Ondra",
+        "cz": "Veronika & Ondra"
       },
       "description": {
         "en": "Corporate video",
@@ -317,16 +317,16 @@
         "en": "Showcasing excellence in business and innovation.",
         "cz": "Prezentace excelence v podnikání a inovacích."
       },
-      "videoUrl": "https://player.vimeo.com/video/225434434",
-      "thumbnail": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab",
-      "category": "Promo",
+      "videoUrl": "https://cdn-video.trnka.one/17.mp4",
+      "thumbnail": "https://cdn-video.trnka.one/thumbnails/17.jpg",
+      "category": "Wedding",
       "date": "2023-12-05"
     },
     {
-      "id": "8",
+      "id": "18",
       "title": {
-        "en": "Babí Lom",
-        "cz": "Babí Lom"
+        "en": "Terka & Mara",
+        "cz": "Terka & Mara"
       },
       "description": {
         "en": "Nature documentary",
@@ -336,16 +336,16 @@
         "en": "Exploring the natural beauty of Babí Lom.",
         "cz": "Objevování přírodních krás Babího Lomu."
       },
-      "videoUrl": "https://player.vimeo.com/video/225434434",
-      "thumbnail": "https://images.unsplash.com/photo-1501785888041-af3ef285b470",
-      "category": "Travel",
+      "videoUrl": "https://cdn-video.trnka.one/18.mp4",
+      "thumbnail": "https://cdn-video.trnka.one/thumbnails/18.jpg",
+      "category": "Wedding",
       "date": "2023-11-30"
     },
     {
-      "id": "9",
+      "id": "19",
       "title": {
-        "en": "London",
-        "cz": "Londýn"
+        "en": "NRNF.cz Podzimní chill",
+        "cz": "NRNF.cz Podzimní chill"
       },
       "description": {
         "en": "City exploration",
@@ -355,16 +355,16 @@
         "en": "Discovering the vibrant culture of London.",
         "cz": "Objevování živé kultury Londýna."
       },
-      "videoUrl": "https://player.vimeo.com/video/225434434",
-      "thumbnail": "https://images.unsplash.com/photo-1513635269975-59663e0ac1ad",
-      "category": "Travel",
+      "videoUrl": "https://cdn-video.trnka.one/19.mp4",
+      "thumbnail": "https://cdn-video.trnka.one/thumbnails/19.jpg",
+      "category": "Promo",
       "date": "2023-11-25"
     },
     {
-      "id": "10",
+      "id": "20",
       "title": {
-        "en": "Lenka & Bolek",
-        "cz": "Lenka & Bolek"
+        "en": "Gabča & Ondra",
+        "cz": "Gabča & Ondra"
       },
       "description": {
         "en": "Wedding celebration",
@@ -374,15 +374,15 @@
         "en": "A romantic wedding in a historic venue.",
         "cz": "Romantická svatba v historických prostorách."
       },
-      "videoUrl": "https://player.vimeo.com/video/225434434",
-      "thumbnail": "https://images.unsplash.com/photo-1519741497674-611481863552",
+      "videoUrl": "https://cdn-video.trnka.one/20.mp4",
+      "thumbnail": "https://cdn-video.trnka.one/thumbnails/20.jpg",
       "category": "Wedding",
       "date": "2023-11-20"
     },{
-      "id": "1",
+      "id": "21",
       "title": {
-        "en": "Hong Kong & China",
-        "cz": "Hong Kong & Čína"
+        "en": "Peťa & Michail",
+        "cz": "Peťa & Michail"
       },
       "description": {
         "en": "Travel documentary",
@@ -392,16 +392,16 @@
         "en": "Exploring the vibrant culture and stunning landscapes of Hong Kong and China.",
         "cz": "Objevování živé kultury a úchvatné krajiny Hong Kongu a Číny."
       },
-      "videoUrl": "https://player.vimeo.com/video/225434434",
-      "thumbnail": "https://images.unsplash.com/photo-1533682805518-48d1f5b8cd3a",
-      "category": "Travel",
+      "videoUrl": "https://cdn-video.trnka.one/21.mp4",
+      "thumbnail": "https://cdn-video.trnka.one/thumbnails/21.jpg",
+      "category": "Wedding",
       "date": "2024-01-15"
     },
     {
-      "id": "2",
+      "id": "22",
       "title": {
-        "en": "Český Ráj",
-        "cz": "Český Ráj"
+        "en": "Delikvent",
+        "cz": "Delikvent"
       },
       "description": {
         "en": "Travel documentary",
@@ -411,16 +411,16 @@
         "en": "Discovering the natural beauty of Czech Paradise.",
         "cz": "Objevování přírodních krás Českého ráje."
       },
-      "videoUrl": "https://player.vimeo.com/video/225434434",
-      "thumbnail": "https://images.unsplash.com/photo-1589723933707-9a612becc829",
-      "category": "Travel",
+      "videoUrl": "https://cdn-video.trnka.one/22.mp4",
+      "thumbnail": "https://cdn-video.trnka.one/thumbnails/22.jpg",
+      "category": "Promo",
       "date": "2024-01-10"
     },
     {
-      "id": "3",
+      "id": "23",
       "title": {
-        "en": "Croatia",
-        "cz": "Chorvatsko"
+        "en": "Kristýna & Adam",
+        "cz": "Kristýna & Adam"
       },
       "description": {
         "en": "Travel documentary",
@@ -430,16 +430,16 @@
         "en": "Exploring the stunning Adriatic coast and historic cities.",
         "cz": "Objevování úchvatného jadranského pobřeží a historických měst."
       },
-      "videoUrl": "https://player.vimeo.com/video/225434434",
-      "thumbnail": "https://images.unsplash.com/photo-1555990538-17e8458f9269",
-      "category": "Travel",
+      "videoUrl": "https://cdn-video.trnka.one/23.mp4",
+      "thumbnail": "https://cdn-video.trnka.one/thumbnails/23.jpg",
+      "category": "Wedding",
       "date": "2024-01-05"
     },
     {
-      "id": "4",
+      "id": "24",
       "title": {
-        "en": "Kiev",
-        "cz": "Kyjev"
+        "en": "Markétka & Mirek",
+        "cz": "Markétka & Mirek"
       },
       "description": {
         "en": "Travel documentary",
@@ -449,16 +449,16 @@
         "en": "Capturing the spirit and culture of Ukraine's capital.",
         "cz": "Zachycení ducha a kultury ukrajinského hlavního města."
       },
-      "videoUrl": "https://player.vimeo.com/video/225434434",
-      "thumbnail": "https://images.unsplash.com/photo-1576624884023-0875a35be060",
-      "category": "Travel",
+      "videoUrl": "https://cdn-video.trnka.one/24.mp4",
+      "thumbnail": "https://cdn-video.trnka.one/thumbnails/24.jpg",
+      "category": "Wedding",
       "date": "2023-12-20"
     },
     {
-      "id": "5",
+      "id": "25",
       "title": {
-        "en": "Chernobyl",
-        "cz": "Černobyl"
+        "en": "ChernKačenka & Honzíkobyl",
+        "cz": "Kačenka & Honzík"
       },
       "description": {
         "en": "Documentary",
@@ -468,16 +468,16 @@
         "en": "Exploring the haunting legacy of the Chernobyl exclusion zone.",
         "cz": "Objevování znepokojivého odkazu černobylské zakázané zóny."
       },
-      "videoUrl": "https://player.vimeo.com/video/225434434",
-      "thumbnail": "https://images.unsplash.com/photo-1576678927484-cc907957088c",
-      "category": "Travel",
+      "videoUrl": "https://cdn-video.trnka.one/25.mp4",
+      "thumbnail": "https://cdn-video.trnka.one/thumbnails/25.jpg",
+      "category": "Wedding",
       "date": "2023-12-15"
     },
     {
-      "id": "6",
+      "id": "26",
       "title": {
-        "en": "Martina & Ondra",
-        "cz": "Martina & Ondra"
+        "en": "Peťa & Milan",
+        "cz": "Peťa & Milan"
       },
       "description": {
         "en": "Wedding celebration",
@@ -487,16 +487,16 @@
         "en": "A beautiful wedding celebration filled with love and joy.",
         "cz": "Krásná svatební oslava plná lásky a radosti."
       },
-      "videoUrl": "https://player.vimeo.com/video/225434434",
-      "thumbnail": "https://images.unsplash.com/photo-1583939003579-730e3918a45a",
+      "videoUrl": "https://cdn-video.trnka.one/26.mp4",
+      "thumbnail": "https://cdn-video.trnka.one/thumbnails/26.jpg",
       "category": "Wedding",
       "date": "2023-12-10"
     },
     {
-      "id": "7",
+      "id": "27",
       "title": {
-        "en": "Gemini Pohořelice",
-        "cz": "Gemini Pohořelice"
+        "en": "Romča & Romča",
+        "cz": "Romča & Romča"
       },
       "description": {
         "en": "Corporate video",
@@ -506,16 +506,16 @@
         "en": "Showcasing excellence in business and innovation.",
         "cz": "Prezentace excelence v podnikání a inovacích."
       },
-      "videoUrl": "https://player.vimeo.com/video/225434434",
-      "thumbnail": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab",
-      "category": "Promo",
+      "videoUrl": "https://cdn-video.trnka.one/27.mp4",
+      "thumbnail": "https://cdn-video.trnka.one/thumbnails/27.jpg",
+      "category": "Wedding",
       "date": "2023-12-05"
     },
     {
-      "id": "8",
+      "id": "28",
       "title": {
-        "en": "Babí Lom",
-        "cz": "Babí Lom"
+        "en": "Dostálovi",
+        "cz": "Dostálovi"
       },
       "description": {
         "en": "Nature documentary",
@@ -525,16 +525,16 @@
         "en": "Exploring the natural beauty of Babí Lom.",
         "cz": "Objevování přírodních krás Babího Lomu."
       },
-      "videoUrl": "https://player.vimeo.com/video/225434434",
-      "thumbnail": "https://images.unsplash.com/photo-1501785888041-af3ef285b470",
-      "category": "Travel",
+      "videoUrl": "https://cdn-video.trnka.one/28.mp4",
+      "thumbnail": "https://cdn-video.trnka.one/thumbnails/28.jpg",
+      "category": "Wedding",
       "date": "2023-11-30"
     },
     {
-      "id": "9",
+      "id": "29",
       "title": {
-        "en": "London",
-        "cz": "Londýn"
+        "en": "Karolína & Ondra",
+        "cz": "Karolína & Ondra"
       },
       "description": {
         "en": "City exploration",
@@ -544,16 +544,16 @@
         "en": "Discovering the vibrant culture of London.",
         "cz": "Objevování živé kultury Londýna."
       },
-      "videoUrl": "https://player.vimeo.com/video/225434434",
-      "thumbnail": "https://images.unsplash.com/photo-1513635269975-59663e0ac1ad",
-      "category": "Travel",
+      "videoUrl": "https://cdn-video.trnka.one/29.mp4",
+      "thumbnail": "https://cdn-video.trnka.one/thumbnails/29.jpg",
+      "category": "Wedding",
       "date": "2023-11-25"
     },
     {
-      "id": "10",
+      "id": "30",
       "title": {
-        "en": "Lenka & Bolek",
-        "cz": "Lenka & Bolek"
+        "en": "Direct.cz - Mobile technician",
+        "cz": "Direct.cz - Mobilní technik"
       },
       "description": {
         "en": "Wedding celebration",
@@ -563,9 +563,217 @@
         "en": "A romantic wedding in a historic venue.",
         "cz": "Romantická svatba v historických prostorách."
       },
-      "videoUrl": "https://player.vimeo.com/video/225434434",
-      "thumbnail": "https://images.unsplash.com/photo-1519741497674-611481863552",
-      "category": "Wedding",
+      "videoUrl": "https://cdn-video.trnka.one/30.mp4",
+      "thumbnail": "https://cdn-video.trnka.one/thumbnails/30.jpg",
+      "category": "Promo",
+      "date": "2023-11-20"
+    },{
+      "id": "31",
+      "title": {
+        "en": "FutureGate 2024 Brno",
+        "cz": "FutureGate 2024 Brno"
+      },
+      "description": {
+        "en": "Travel documentary",
+        "cz": "Cestovatelský dokument"
+      },
+      "leadText": {
+        "en": "Exploring the vibrant culture and stunning landscapes of Hong Kong and China.",
+        "cz": "Objevování živé kultury a úchvatné krajiny Hong Kongu a Číny."
+      },
+      "videoUrl": "https://cdn-video.trnka.one/31.mp4",
+      "thumbnail": "https://cdn-video.trnka.one/thumbnails/31.jpg",
+      "category": "Promo",
+      "date": "2024-01-15"
+    },
+    {
+      "id": "32",
+      "title": {
+        "en": "Motorbike journey",
+        "cz": "Putování na motorce"
+      },
+      "description": {
+        "en": "Travel documentary",
+        "cz": "Cestovatelský dokument"
+      },
+      "leadText": {
+        "en": "Discovering the natural beauty of Czech Paradise.",
+        "cz": "Objevování přírodních krás Českého ráje."
+      },
+      "videoUrl": "https://cdn-video.trnka.one/32.mp4",
+      "thumbnail": "https://cdn-video.trnka.one/thumbnails/32.jpg",
+      "category": "Travel",
+      "date": "2024-01-10"
+    },
+    {
+      "id": "33",
+      "title": {
+        "en": "Showreel 2018",
+        "cz": "Showreel 2018"
+      },
+      "description": {
+        "en": "Travel documentary",
+        "cz": "Cestovatelský dokument"
+      },
+      "leadText": {
+        "en": "Exploring the stunning Adriatic coast and historic cities.",
+        "cz": "Objevování úchvatného jadranského pobřeží a historických měst."
+      },
+      "videoUrl": "https://cdn-video.trnka.one/33.mp4",
+      "thumbnail": "https://cdn-video.trnka.one/thumbnails/33.jpg",
+      "category": "Promo",
+      "date": "2024-01-05"
+    },
+    {
+      "id": "34",
+      "title": {
+        "en": "Brno - Drone October morning",
+        "cz": "Brno - Říjnové ráno z dronu"
+      },
+      "description": {
+        "en": "Travel documentary",
+        "cz": "Cestovatelský dokument"
+      },
+      "leadText": {
+        "en": "Capturing the spirit and culture of Ukraine's capital.",
+        "cz": "Zachycení ducha a kultury ukrajinského hlavního města."
+      },
+      "videoUrl": "https://cdn-video.trnka.one/34.mp4",
+      "thumbnail": "https://cdn-video.trnka.one/thumbnails/34.jpg",
+      "category": "Promo",
+      "date": "2023-12-20"
+    },
+    {
+      "id": "35",
+      "title": {
+        "en": "High Gear - selfdefense course",
+        "cz": "High Gear - kurz sebeobrany"
+      },
+      "description": {
+        "en": "Documentary",
+        "cz": "Dokument"
+      },
+      "leadText": {
+        "en": "Exploring the haunting legacy of the Chernobyl exclusion zone.",
+        "cz": "Objevování znepokojivého odkazu černobylské zakázané zóny."
+      },
+      "videoUrl": "https://cdn-video.trnka.one/35.mp4",
+      "thumbnail": "https://cdn-video.trnka.one/thumbnails/35.jpg",
+      "category": "Promo",
+      "date": "2023-12-15"
+    },
+    {
+      "id": "36",
+      "title": {
+        "en": "ČUN, how to get there?",
+        "cz": "ČUN, jak se k nám dostanete?"
+      },
+      "description": {
+        "en": "Wedding celebration",
+        "cz": "Svatební oslava"
+      },
+      "leadText": {
+        "en": "A beautiful wedding celebration filled with love and joy.",
+        "cz": "Krásná svatební oslava plná lásky a radosti."
+      },
+      "videoUrl": "https://cdn-video.trnka.one/36.mp4",
+      "thumbnail": "https://cdn-video.trnka.one/thumbnails/36.jpg",
+      "category": "Promo",
+      "date": "2023-12-10"
+    },
+    {
+      "id": "37",
+      "title": {
+        "en": "New years fireworks Bilovice nad Svitavou",
+        "cz": "Novoroční ohňostroj Bílovice nad Svitavou"
+      },
+      "description": {
+        "en": "Corporate video",
+        "cz": "Firemní video"
+      },
+      "leadText": {
+        "en": "Showcasing excellence in business and innovation.",
+        "cz": "Prezentace excelence v podnikání a inovacích."
+      },
+      "videoUrl": "https://cdn-video.trnka.one/37.mp4",
+      "thumbnail": "https://cdn-video.trnka.one/thumbnails/37.jpg",
+      "category": "Promo",
+      "date": "2023-12-05"
+    },
+    {
+      "id": "38",
+      "title": {
+        "en": "Rockopera Antigona",
+        "cz": "Rockopera Antigona"
+      },
+      "description": {
+        "en": "Nature documentary",
+        "cz": "Přírodní dokument"
+      },
+      "leadText": {
+        "en": "Exploring the natural beauty of Babí Lom.",
+        "cz": "Objevování přírodních krás Babího Lomu."
+      },
+      "videoUrl": "https://cdn-video.trnka.one/38.mp4",
+      "thumbnail": "https://cdn-video.trnka.one/thumbnails/38.jpg",
+      "category": "Promo",
+      "date": "2023-11-30"
+    },
+    {
+      "id": "39",
+      "title": {
+        "en": "NRNF.cz 10 year aniversary",
+        "cz": "NRNF.cz 10. výročí"
+      },
+      "description": {
+        "en": "City exploration",
+        "cz": "Průzkum města"
+      },
+      "leadText": {
+        "en": "Discovering the vibrant culture of London.",
+        "cz": "Objevování živé kultury Londýna."
+      },
+      "videoUrl": "https://cdn-video.trnka.one/39.mp4",
+      "thumbnail": "https://cdn-video.trnka.one/thumbnails/39.jpg",
+      "category": "Promo",
+      "date": "2023-11-25"
+    },
+    {
+      "id": "40",
+      "title": {
+        "en": "Stella baptism",
+        "cz": "Křest Stelly"
+      },
+      "description": {
+        "en": "Wedding celebration",
+        "cz": "Svatební oslava"
+      },
+      "leadText": {
+        "en": "A romantic wedding in a historic venue.",
+        "cz": "Romantická svatba v historických prostorách."
+      },
+      "videoUrl": "https://cdn-video.trnka.one/40.mp4",
+      "thumbnail": "https://cdn-video.trnka.one/thumbnails/40.jpg",
+      "category": "Promo",
+      "date": "2023-11-20"
+    },
+    {
+      "id": "41",
+      "title": {
+        "en": "Bolek 30.",
+        "cz": "Bolek 30."
+      },
+      "description": {
+        "en": "Wedding celebration",
+        "cz": "Svatební oslava"
+      },
+      "leadText": {
+        "en": "A romantic wedding in a historic venue.",
+        "cz": "Romantická svatba v historických prostorách."
+      },
+      "videoUrl": "https://cdn-video.trnka.one/41.mp4",
+      "thumbnail": "https://cdn-video.trnka.one/thumbnails/41.jpg",
+      "category": "Promo",
       "date": "2023-11-20"
     }
   ],
@@ -615,7 +823,7 @@
       "heroTitle": "Visual Stories by trnka.one",
       "heroSubtitle": "Video storyteller specializing in weddings, events, and commercial productions",
       "featuredProjects": "Amazing Stories",
-      "contactTitle": "Let's Create And Record",
+      "contactTitle": "Create Amazing Stories",
       "contactSubtitle": "Available for commercial projects, events, and creative collaborations",
       "email": "Email",
       "call": "Call",
@@ -638,7 +846,7 @@
       "heroTitle": "Zachycuji životní příběhy",
       "heroSubtitle": "Vypravěč příběhů specializující se na svatby, události a komerční produkce",
       "featuredProjects": "Úžasné příběhy",
-      "contactTitle": "Tvořme a natáčejme společně",
+      "contactTitle": "Tvořme úžasné příběhy",
       "contactSubtitle": "Jsem k dispozici pro komerční projekty, svatby a kreativní spolupráce",
       "email": "E-mail",
       "call": "Telefon",

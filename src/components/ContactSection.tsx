@@ -25,7 +25,7 @@ export function ContactSection({ currentLang, t }: ContactSectionProps) {
           {t.contactSubtitle}
         </p>
         
-        <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-6">
+        <div className="grid grid-cols-1 md:grid-cols-4 lg:grid-cols-3 gap-6">
           <a
             href="mailto:video@trnka.one"
             className="group flex flex-col items-center p-6 rounded-custom bg-white shadow-lg hover:shadow-xl transition-all duration-300"
@@ -55,16 +55,6 @@ export function ContactSection({ currentLang, t }: ContactSectionProps) {
             <span className="text-sm text-gray-500">@video.trnka.one</span>
           </a>
 
-          <a
-            href="https://vimeo.com/adamtrnka"
-            target="_blank"
-            rel="noopener noreferrer"
-            className="group flex flex-col items-center p-6 rounded-custom bg-white shadow-lg hover:shadow-xl transition-all duration-300"
-          >
-            <Video className="w-8 h-8 mb-4 text-[#fd4632] group-hover:scale-110 transition-transform duration-300" />
-            <span className="text-gray-900 font-medium">{t.vimeo}</span>
-            <span className="text-sm text-gray-500">adamtrnka</span>
-          </a>
         </div>
       </div>
     </section>
