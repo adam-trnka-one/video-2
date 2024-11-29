@@ -1,25 +1,6 @@
 {
   "projects": [
     {
-      "id": "1",
-      "title": {
-        "en": "FG 2024 Brno",
-        "cz": "FG 2024 Brno"
-      },
-      "description": {
-        "en": "Travel documentary",
-        "cz": "Cestovatelský dokument"
-      },
-      "leadText": {
-        "en": "Exploring the vibrant culture and stunning landscapes of Hong Kong and China.",
-        "cz": "Objevování živé kultury a úchvatné krajiny Hong Kongu a Číny."
-      },
-      "videoUrl": "https://cdn-video.trnka.one/01.mp4",
-      "thumbnail": "https://cdn-video.trnka.one/thumbnails/01.jpg",
-      "category": "Travel",
-      "date": "2024-01-15"
-    },
-    {
       "id": "2",
       "title": {
         "en": "Český Ráj",
@@ -30,8 +11,8 @@
         "cz": "Cestovatelský dokument"
       },
       "leadText": {
-        "en": "Discovering the natural beauty of Czech Paradise.",
-        "cz": "Objevování přírodních krás Českého ráje."
+        "en": "The natural beauty of Czech Paradise.",
+        "cz": "Přírodní krásy Českého ráje."
       },
       "videoUrl": "https://cdn-video.trnka.one/02.mp4",
       "thumbnail": "https://cdn-video.trnka.one/thumbnails/02.jpg",
@@ -457,7 +438,7 @@
     {
       "id": "25",
       "title": {
-        "en": "ChernKačenka & Honzíkobyl",
+        "en": "Kačenka & Honzík",
         "cz": "Kačenka & Honzík"
       },
       "description": {
@@ -775,43 +756,62 @@
       "thumbnail": "https://cdn-video.trnka.one/thumbnails/41.jpg",
       "category": "Promo",
       "date": "2023-11-20"
+    },
+    {
+      "id": "42",
+      "title": {
+        "en": "Dagmar & Martin",
+        "cz": "Dášenka & Martin"
+      },
+      "description": {
+        "en": "Wedding celebration",
+        "cz": "Svatební oslava"
+      },
+      "leadText": {
+        "en": "A romantic wedding in a historic venue.",
+        "cz": "Romantická svatba v historických prostorách."
+      },
+      "videoUrl": "https://cdn-video.trnka.one/41.mp4",
+      "thumbnail": "https://cdn-video.trnka.one/thumbnails/41.jpg",
+      "category": "Wedding",
+      "date": "2023-11-20"
     }
   ],
   "testimonials": [
     {
       "name": "Boleslav Daška",
       "text": {
-        "en": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+        "en": "Our wedding video is stunning! It was professionality and ease to work with Adam, and the video was beautifully shot. We’ll cherish it forever!",
         "cz": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
       },
-      "photo": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d",
+      "photo": "https://cdn-images.trnka.one/persons/daska.jpeg",
       "category": "Wedding"
     },
     {
       "name": "Gabriela Horová",
       "text": {
-        "en": "Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+        "en": "We love our wedding video! Adam captured every moment perfectly. The video brings back all the emotions from our big day. Highly recommend!",
         "cz": "Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat."
       },
-      "photo": "https://images.unsplash.com/photo-1494790108377-be9c29b29330",
+      "photo": "https://cdn-images.trnka.one/persons/horova.jpg",
       "category": "Wedding"
     },
     {
       "name": "Martina Teplá",
       "text": {
-        "en": "Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.",
+        "en": "We’re so happy with our wedding video. Adam captured all the details and the editing was flawless. A perfect keepsake of our special day!",
         "cz": "Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur."
       },
-      "photo": "https://images.unsplash.com/photo-1438761681033-6461ffad8d80",
+      "photo": "https://cdn-images.trnka.one/persons/tepla.jpg",
       "category": "Wedding"
     },
     {
       "name": "Jiří Štěrba",
       "text": {
-        "en": "Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+        "en": "Working with Adam was great! He captured the energy and excitement of our car meet perfectly. The video is fantastic and has helped promote our car club!",
         "cz": "Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
       },
-      "photo": "https://images.unsplash.com/photo-1500648767791-00dcc994a43e",
+      "photo": "https://cdn-images.trnka.one/persons/sterba.jpeg",
       "category": "Promo"
     }
   ],
@@ -820,7 +820,7 @@
       "portfolio": "Portfolio",
       "contact": "Contact",
       "viewPortfolio": "View Stories",
-      "heroTitle": "Visual Stories by trnka.one",
+      "heroTitle": "I capture life stories",
       "heroSubtitle": "Video storyteller specializing in weddings, events, and commercial productions",
       "featuredProjects": "Amazing Stories",
       "contactTitle": "Create Amazing Stories",
