@@ -1,6 +1,24 @@
 {
   "projects": [
     {
+      "id": "42",
+      "title": {
+        "en": "Dagmar & Martin",
+        "cz": "Dášenka & Martin"
+      },
+      "description": {
+        "en": "Wedding celebration",
+        "cz": "Svatební oslava"
+      },
+      "leadText": {
+        "en": "A romantic wedding in a historic venue.",
+        "cz": "Romantická svatba v historických prostorách."
+      },
+      "videoUrl": "https://cdn-video.trnka.one/42.mp4",
+      "thumbnail": "https://cdn-video.trnka.one/thumbnails/42.jpg",
+      "category": "Wedding",
+      "date": "2023-11-20"
+    },{
       "id": "2",
       "title": {
         "en": "Český Ráj",
@@ -91,7 +109,7 @@
         "cz": "Krásná svatební oslava plná lásky a radosti."
       },
       "videoUrl": "https://cdn-video.trnka.one/06.mp4",
-      "thumbnail": "https://cdn-video.trnka.one/thumbnails/06.jpg",
+      "thumbnail": "https://cdn-video.trnka.one/thumbnails/06-foto.jpg",
       "category": "Wedding",
       "date": "2023-12-10"
     },
@@ -756,25 +774,6 @@
       "thumbnail": "https://cdn-video.trnka.one/thumbnails/41.jpg",
       "category": "Promo",
       "date": "2023-11-20"
-    },
-    {
-      "id": "42",
-      "title": {
-        "en": "Dagmar & Martin",
-        "cz": "Dášenka & Martin"
-      },
-      "description": {
-        "en": "Wedding celebration",
-        "cz": "Svatební oslava"
-      },
-      "leadText": {
-        "en": "A romantic wedding in a historic venue.",
-        "cz": "Romantická svatba v historických prostorách."
-      },
-      "videoUrl": "https://cdn-video.trnka.one/41.mp4",
-      "thumbnail": "https://cdn-video.trnka.one/thumbnails/41.jpg",
-      "category": "Wedding",
-      "date": "2023-11-20"
     }
   ],
   "testimonials": [
@@ -782,7 +781,7 @@
       "name": "Boleslav Daška",
       "text": {
         "en": "Our wedding video is stunning! It was professionality and ease to work with Adam, and the video was beautifully shot. We’ll cherish it forever!",
-        "cz": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+        "cz": "Naše svatební video je úchvatné! Bylo profesionální a snadné pracovat s Adamem, a video bylo nádherně natočené. Budeme si ho navždy vážit!"
       },
       "photo": "https://cdn-images.trnka.one/persons/daska.jpeg",
       "category": "Wedding"
@@ -791,7 +790,7 @@
       "name": "Gabriela Horová",
       "text": {
         "en": "We love our wedding video! Adam captured every moment perfectly. The video brings back all the emotions from our big day. Highly recommend!",
-        "cz": "Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat."
+        "cz": "Milujeme naše svatební video! Adam dokonale zachytil každý okamžik. Video nám připomíná všechny emoce z našeho velkého dne. Vřele doporučujeme!"
       },
       "photo": "https://cdn-images.trnka.one/persons/horova.jpg",
       "category": "Wedding"
@@ -800,7 +799,7 @@
       "name": "Martina Teplá",
       "text": {
         "en": "We’re so happy with our wedding video. Adam captured all the details and the editing was flawless. A perfect keepsake of our special day!",
-        "cz": "Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur."
+        "cz": "Jsme nadšení z našeho svatebního videa. Adam zachytil všechny detaily a střih byl bezchybý. Dokonalá památka na náš výjimečný den!"
       },
       "photo": "https://cdn-images.trnka.one/persons/tepla.jpg",
       "category": "Wedding"
@@ -809,7 +808,7 @@
       "name": "Jiří Štěrba",
       "text": {
         "en": "Working with Adam was great! He captured the energy and excitement of our car meet perfectly. The video is fantastic and has helped promote our car club!",
-        "cz": "Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
+        "cz": "Spolupráce s Adamem byla skvělá! Dokonale zachytil energii a nadšení z našeho srazu aut. Video je fantastické a pomohlo propagovat náš klub!"
       },
       "photo": "https://cdn-images.trnka.one/persons/sterba.jpeg",
       "category": "Promo"
