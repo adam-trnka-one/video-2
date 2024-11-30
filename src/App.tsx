@@ -113,7 +113,7 @@ function App() {
                 {selectedProject.leadText[currentLang]}
               </p>
               <p className="text-sm text-gray-400">
-                {new Date(selectedProject.date).toLocaleDateString(currentLang === 'cz' ? 'cs-CZ' : 'en-US')}
+                {project.date}
               </p>
             </div>
 
