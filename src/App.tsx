@@ -113,7 +113,7 @@ function App() {
                 {selectedProject.leadText[currentLang]}
               </p>
               <p className="text-sm text-gray-400">
-                {project.date}
+                {selectedProject.date}
               </p>
             </div>
 
