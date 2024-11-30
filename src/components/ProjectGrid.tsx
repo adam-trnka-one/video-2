@@ -62,7 +62,7 @@ export function ProjectGrid({ projects, onProjectClick, currentLang, categoryMap
                     {categoryMap[project.category]}
                   </span>
                   <span className="text-sm text-gray-400">
-                    {new Date(project.date).toLocaleDateString(currentLang === 'cz' ? 'cs-CZ' : 'en-US')}
+                    {project.date}
                   </span>
                 </div>
               </div>
