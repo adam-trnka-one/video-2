@@ -656,7 +656,7 @@
   ],
   "languages": {
     "en": {
-      "portfolio": "Portfolio",
+      "portfolio": "Stories",
       "contact": "Contact",
       "viewPortfolio": "View Stories",
       "heroTitle": "I capture life stories",
@@ -679,7 +679,7 @@
       "next": "Next"
     },
     "cz": {
-      "portfolio": "Portfolio",
+      "portfolio": "Příběhy",
       "contact": "Kontakt",
       "viewPortfolio": "Zobrazit příběhy",
       "heroTitle": "Zachycuji životní příběhy",
