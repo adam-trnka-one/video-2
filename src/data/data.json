@@ -1,781 +1,621 @@
 {
   "projects": [
     {
-      "id": "42",
-      "title": {
-        "en": "Dagmar & Martin",
-        "cz": "Dášenka & Martin"
-      },
-      "description": {
-        "en": "Wedding celebration",
-        "cz": "Svatební oslava"
-      },
-      "leadText": {
-        "en": "A romantic wedding in a historic venue.",
-        "cz": "Romantická svatba v historických prostorách."
-      },
-      "videoUrl": "https://cdn-video.trnka.one/42.mp4",
-      "thumbnail": "https://cdn-video.trnka.one/thumbnails/42.jpg",
-      "category": "Wedding",
-      "date": "2023-11-20"
-    },{
-      "id": "2",
-      "title": {
-        "en": "Český Ráj",
-        "cz": "Český Ráj"
-      },
-      "description": {
-        "en": "Travel documentary",
-        "cz": "Cestovatelský dokument"
-      },
-      "leadText": {
-        "en": "The natural beauty of Czech Paradise.",
-        "cz": "Přírodní krásy Českého ráje."
-      },
-      "videoUrl": "https://cdn-video.trnka.one/02.mp4",
-      "thumbnail": "https://cdn-video.trnka.one/thumbnails/02.jpg",
-      "category": "Travel",
-      "date": "2024-01-10"
+        "id": "31",
+        "title": {
+            "en": "FutureGate 2024 Brno",
+            "cz": "FutureGate 2024 Brno"
+        },
+        "leadText": {
+            "en": "The 11th Czech Sci-Fi and Fantasy Film Festival illuminated the Brno Observatory and Art Cinema, transforming the historic venue into a spectacular showcase of imaginative cinema, blending astronomical wonder with cutting-edge storytelling.",
+            "cz": "11. ročník Českého sci-fi a fantasy filmového festivalu rozzářil Hvězdárnu a Art kino Brno, proměnil toto historické místo v úchvatnou přehlídku imaginativní kinematografie, kde se snoubí astronomický úžas s průkopnickým vyprávěním příběhů."
+        },
+        "videoUrl": "https://cdn-video.trnka.one/31.mp4",
+        "thumbnail": "https://cdn-video.trnka.one/thumbnails/31.jpg",
+        "category": "Promo",
+        "date": "10/2024"
     },
     {
-      "id": "3",
-      "title": {
-        "en": "Croatia",
-        "cz": "Chorvatsko"
-      },
-      "description": {
-        "en": "Travel documentary",
-        "cz": "Cestovatelský dokument"
-      },
-      "leadText": {
-        "en": "Exploring the stunning Adriatic coast and historic cities.",
-        "cz": "Objevování úchvatného jadranského pobřeží a historických měst."
-      },
-      "videoUrl": "https://cdn-video.trnka.one/03.mp4",
-      "thumbnail": "https://cdn-video.trnka.one/thumbnails/03.jpg",
-      "category": "Travel",
-      "date": "2024-01-05"
+        "id": "30",
+        "title": {
+            "en": "Direct.cz - Mobile technician",
+            "cz": "Direct.cz - Mobilní technik"
+        },
+        "leadText": {
+            "en": "Insurance company internal mobile app revolutionized field service, reducing technician processing time from hours of manual paperwork to minutes of instant digital reporting, dramatically enhancing efficiency and customer satisfaction.",
+            "cz": "Interní mobilní aplikace pojišťovny zásadně proměnila práci v terénu - z hodin ručního papírování zkrátila technikům čas na minuty digitálního reportování, což dramaticky zvýšilo efektivitu i spokojenost zákazníků."
+        },
+        "videoUrl": "https://cdn-video.trnka.one/30.mp4",
+        "thumbnail": "https://cdn-video.trnka.one/thumbnails/30.jpg",
+        "category": "Promo",
+        "date": "03/2023"
     },
     {
-      "id": "4",
-      "title": {
-        "en": "Kiev",
-        "cz": "Kyjev"
-      },
-      "description": {
-        "en": "Travel documentary",
-        "cz": "Cestovatelský dokument"
-      },
-      "leadText": {
-        "en": "Capturing the spirit and culture of Ukraine's capital.",
-        "cz": "Zachycení ducha a kultury ukrajinského hlavního města."
-      },
-      "videoUrl": "https://cdn-video.trnka.one/04.mp4",
-      "thumbnail": "https://cdn-video.trnka.one/thumbnails/04.jpg",
-      "category": "Travel",
-      "date": "2023-12-20"
+        "id": "29",
+        "title": {
+            "en": "Karolína & Ondra",
+            "cz": "Karolína & Ondra"
+        },
+        "leadText": {
+            "en": "Their perfect harmony radiates through every moment of the celebration, where joy, love, and unwavering trust illuminate a wedding that captures the essence of two souls destined to share life's journey.",
+            "cz": "Jejich dokonalá harmonie vyzařuje z každého okamžiku oslavy, kde radost, láska a neochvějná důvěra prozařují svatbu zachycující esenci dvou duší předurčených sdílet společnou životní cestu."
+        },
+        "videoUrl": "https://cdn-video.trnka.one/29.mp4",
+        "thumbnail": "https://cdn-video.trnka.one/thumbnails/29.jpg",
+        "category": "Wedding",
+        "date": "07/2022"
     },
     {
-      "id": "5",
-      "title": {
-        "en": "Chernobyl",
-        "cz": "Černobyl"
-      },
-      "description": {
-        "en": "Documentary",
-        "cz": "Dokument"
-      },
-      "leadText": {
-        "en": "Exploring the haunting legacy of the Chernobyl exclusion zone.",
-        "cz": "Objevování znepokojivého odkazu černobylské zakázané zóny."
-      },
-      "videoUrl": "https://cdn-video.trnka.one/05.mp4",
-      "thumbnail": "https://cdn-video.trnka.one/thumbnails/05.jpg",
-      "category": "Travel",
-      "date": "2023-12-15"
+        "id": "28",
+        "title": {
+            "en": "Verča & Kuba",
+            "cz": "Verča & Kuba"
+        },
+        "leadText": {
+            "en": "Two kindred spirits united in a soulful celebration, where their deep connection to nature and mindful living blossomed into a wedding that honored both their vegan values and spiritual bond.",
+            "cz": "Dvě přírodní duše spojené v procítěné oslavě, kde jejich hluboké spojení s přírodou a vědomým životem rozkvétá ve svatbu ctící jak jejich veganské hodnoty, tak duchovní pouto."
+        },
+        "videoUrl": "https://cdn-video.trnka.one/28.mp4",
+        "thumbnail": "https://cdn-video.trnka.one/thumbnails/28.jpg",
+        "category": "Wedding",
+        "date": "09/2021"
     },
     {
-      "id": "6",
-      "title": {
-        "en": "Martina & Ondra",
-        "cz": "Martina & Ondra"
-      },
-      "description": {
-        "en": "Wedding celebration",
-        "cz": "Svatební oslava"
-      },
-      "leadText": {
-        "en": "A beautiful wedding celebration filled with love and joy.",
-        "cz": "Krásná svatební oslava plná lásky a radosti."
-      },
-      "videoUrl": "https://cdn-video.trnka.one/06.mp4",
-      "thumbnail": "https://cdn-video.trnka.one/thumbnails/06-foto.jpg",
-      "category": "Wedding",
-      "date": "2023-12-10"
+        "id": "27",
+        "title": {
+            "en": "Romča & Romča",
+            "cz": "Romča & Romča"
+        },
+        "leadText": {
+            "en": "An intimate celebration of love unfolded on private grounds, where close family gathered to witness a heartfelt wedding, beautifully captured through the spontaneous lens of an iPhone, preserving genuine moments with unexpected authenticity.",
+            "cz": "Intimní oslava lásky se odehrála na soukromém pozemku, kde se nejbližší rodina sešla, aby byla svědkem srdečné svatby, spontánně zachycené objektivem iPhonu, který uchoval autentické okamžiky s nečekanou opravdovostí."
+        },
+        "videoUrl": "https://cdn-video.trnka.one/27.mp4",
+        "thumbnail": "https://cdn-video.trnka.one/thumbnails/27.jpg",
+        "category": "Wedding",
+        "date": "07/2021"
     },
     {
-      "id": "7",
-      "title": {
-        "en": "Gemini Pohořelice",
-        "cz": "Gemini Pohořelice"
-      },
-      "description": {
-        "en": "Corporate video",
-        "cz": "Firemní video"
-      },
-      "leadText": {
-        "en": "Showcasing excellence in business and innovation.",
-        "cz": "Prezentace excelence v podnikání a inovacích."
-      },
-      "videoUrl": "https://cdn-video.trnka.one/07.mp4",
-      "thumbnail": "https://cdn-video.trnka.one/thumbnails/07.jpg",
-      "category": "Promo",
-      "date": "2023-12-05"
+        "id": "26",
+        "title": {
+            "en": "Peťa & Milan",
+            "cz": "Peťa & Milan"
+        },
+        "leadText": {
+            "en": "An enchanting celebration of love transformed ancient castle halls, where timeless romance and joyful moments echoed through historic stones, creating a majestic backdrop for their perfect day.",
+            "cz": "Okouzlující oslava lásky proměnila starobylé hradní sály, kde nadčasová romance a radostné okamžiky rezonovaly historickými zdmi a vytvořily majestátní kulisu jejich dokonalého dne."
+        },
+        "videoUrl": "https://cdn-video.trnka.one/26.mp4",
+        "thumbnail": "https://cdn-video.trnka.one/thumbnails/26.jpg",
+        "category": "Wedding",
+        "date": "09/2020"
     },
     {
-      "id": "8",
-      "title": {
-        "en": "Babí Lom",
-        "cz": "Babí Lom"
-      },
-      "description": {
-        "en": "Nature documentary",
-        "cz": "Přírodní dokument"
-      },
-      "leadText": {
-        "en": "Exploring the natural beauty of Babí Lom.",
-        "cz": "Objevování přírodních krás Babího Lomu."
-      },
-      "videoUrl": "https://cdn-video.trnka.one/08.mp4",
-      "thumbnail": "https://cdn-video.trnka.one/thumbnails/08.jpg",
-      "category": "Travel",
-      "date": "2023-11-30"
+        "id": "25",
+        "title": {
+            "en": "Kačenka & Honzík",
+            "cz": "Kačenka & Honzík"
+        },
+        "leadText": {
+            "en": "A mesmerizing celebration of love, where the newlyweds' shared passion for dance became the heartbeat of their wedding, symbolizing their journey of rhythm, connection, and harmony through life's intricate choreography.",
+            "cz": "Podmanivá oslava lásky, kde se společná vášeň novomanželů pro tanec stala srdečním tepem jejich svatby, symbolizující jejich společnou cestu rytmu, spojení a harmonie životní choreografií."
+        },
+        "videoUrl": "https://cdn-video.trnka.one/25.mp4",
+        "thumbnail": "https://cdn-video.trnka.one/thumbnails/25.jpg",
+        "category": "Wedding",
+        "date": "09/2020"
     },
     {
-      "id": "9",
-      "title": {
-        "en": "London",
-        "cz": "Londýn"
-      },
-      "description": {
-        "en": "City exploration",
-        "cz": "Průzkum města"
-      },
-      "leadText": {
-        "en": "Discovering the vibrant culture of London.",
-        "cz": "Objevování živé kultury Londýna."
-      },
-      "videoUrl": "https://cdn-video.trnka.one/09.mp4",
-      "thumbnail": "https://cdn-video.trnka.one/thumbnails/09.jpg",
-      "category": "Travel",
-      "date": "2023-11-25"
+        "id": "42",
+        "title": {
+            "en": "Dagmar & Martin",
+            "cz": "Dášenka & Martin"
+        },
+        "leadText": {
+            "en": "An enchanting wedding unfolded on a picturesque estate near the Czech Republic's oldest atomic power plant, where love's tender energy contrasted beautifully with the industrial backdrop, creating an unforgettably powerful and romantic atmosphere.",
+            "cz": "Okouzlující svatba se odehrála na malebném panství nedaleko nejstarší české jaderné elektrárny, kde něžná energie lásky krásně kontrastovala s industriálním pozadím a vytvořila nezapomenutelně působivou a romantickou atmosféru."
+        },
+        "videoUrl": "https://cdn-video.trnka.one/42.mp4",
+        "thumbnail": "https://cdn-video.trnka.one/thumbnails/42.jpg",
+        "category": "Wedding",
+        "date": "09/2019"
     },
     {
-      "id": "10",
-      "title": {
-        "en": "Lenka & Bolek",
-        "cz": "Lenka & Bolek"
-      },
-      "description": {
-        "en": "Wedding celebration",
-        "cz": "Svatební oslava"
-      },
-      "leadText": {
-        "en": "A romantic wedding in a historic venue.",
-        "cz": "Romantická svatba v historických prostorách."
-      },
-      "videoUrl": "https://cdn-video.trnka.one/10.mp4",
-      "thumbnail": "https://cdn-video.trnka.one/thumbnails/10.jpg",
-      "category": "Wedding",
-      "date": "2023-11-20"
-    },{
-      "id": "11",
-      "title": {
-        "en": "Prochy Racing 86 Autocross",
-        "cz": "Prochy Racing 86 Autocross"
-      },
-      "description": {
-        "en": "Travel documentary",
-        "cz": "Cestovatelský dokument"
-      },
-      "leadText": {
-        "en": "Exploring the vibrant culture and stunning landscapes of Hong Kong and China.",
-        "cz": "Objevování živé kultury a úchvatné krajiny Hong Kongu a Číny."
-      },
-      "videoUrl": "https://cdn-video.trnka.one/11.mp4",
-      "thumbnail": "https://cdn-video.trnka.one/thumbnails/11.jpg",
-      "category": "Promo",
-      "date": "2024-01-15"
+        "id": "40",
+        "title": {
+            "en": "Stella baptism",
+            "cz": "Křest Stelly"
+        },
+        "leadText": {
+            "en": "A sacred ritual steeped in ancient tradition, the Orthodox baptism transcends mere observation, immersing the filmmaker in a profound spiritual journey of reverence, symbolism, and timeless cultural significance.",
+            "cz": "Posvátný rituál prodchnutý starobylou tradicí, pravoslavný křest přesahuje pouhé pozorování a vtahuje filmaře do hluboké duchovní cesty plné úcty, symboliky a nadčasového kulturního významu."
+        },
+        "videoUrl": "https://cdn-video.trnka.one/40.mp4",
+        "thumbnail": "https://cdn-video.trnka.one/thumbnails/40.jpg",
+        "category": "Promo",
+        "date": "10/2018"
     },
     {
-      "id": "12",
-      "title": {
-        "en": "Japonsko",
-        "cz": "Japonsko"
-      },
-      "description": {
-        "en": "Travel documentary",
-        "cz": "Cestovatelský dokument"
-      },
-      "leadText": {
-        "en": "Discovering the natural beauty of Czech Paradise.",
-        "cz": "Objevování přírodních krás Českého ráje."
-      },
-      "videoUrl": "https://cdn-video.trnka.one/12.mp4",
-      "thumbnail": "https://cdn-video.trnka.one/thumbnails/12.jpg",
-      "category": "Travel",
-      "date": "2024-01-10"
+        "id": "22",
+        "title": {
+            "en": "Delikvent",
+            "cz": "Delikvent"
+        },
+        "leadText": {
+            "en": "A provocative graduation film that blurs the lines between perception and reality, exploring the complex dynamics of a relationship marked by social stigma, challenging viewers to look beyond surface-level judgments of character and circumstance.",
+            "cz": "Provokativní absolventský film stírající hranice mezi vnímáním a realitou zkoumá komplexní dynamiku vztahu poznamenaného společenským stigmatem a vyzývá diváky, aby nahlédli za povrchní soudy o charakteru a okolnostech."
+        },
+        "videoUrl": "https://cdn-video.trnka.one/22.mp4",
+        "thumbnail": "https://cdn-video.trnka.one/thumbnails/22.jpg",
+        "category": "Promo",
+        "date": "09/2018"
     },
     {
-      "id": "13",
-      "title": {
-        "en": "Martička & Petr",
-        "cz": "Martička & Petr"
-      },
-      "description": {
-        "en": "Travel documentary",
-        "cz": "Cestovatelský dokument"
-      },
-      "leadText": {
-        "en": "Exploring the stunning Adriatic coast and historic cities.",
-        "cz": "Objevování úchvatného jadranského pobřeží a historických měst."
-      },
-      "videoUrl": "https://cdn-video.trnka.one/13.mp4",
-      "thumbnail": "https://cdn-video.trnka.one/thumbnails/13.jpg",
-      "category": "Wedding",
-      "date": "2024-01-05"
+        "id": "23",
+        "title": {
+            "en": "Kristýna & Adam",
+            "cz": "Kristýna & Adam"
+        },
+        "leadText": {
+            "en": "Two playful souls intertwined at their enchanting farmhouse wedding, where their infectious joy and boundless love resonated through an extraordinary gathering of friends and family.",
+            "cz": "Dvě hravé duše spojily své osudy na okouzlující svatbě na statku, kde jejich nakažlivá radost a bezmezná láska rezonovala výjimečným společenstvím přátel a rodiny."
+        },
+        "videoUrl": "https://cdn-video.trnka.one/23.mp4",
+        "thumbnail": "https://cdn-video.trnka.one/thumbnails/23.jpg",
+        "category": "Wedding",
+        "date": "06/2018"
     },
     {
-      "id": "14",
-      "title": {
-        "en": "Leontýnka & Tomáš",
-        "cz": "Leontýnka & Tomáš"
-      },
-      "description": {
-        "en": "Travel documentary",
-        "cz": "Cestovatelský dokument"
-      },
-      "leadText": {
-        "en": "Capturing the spirit and culture of Ukraine's capital.",
-        "cz": "Zachycení ducha a kultury ukrajinského hlavního města."
-      },
-      "videoUrl": "https://cdn-video.trnka.one/14.mp4",
-      "thumbnail": "https://cdn-video.trnka.one/thumbnails/14.jpg",
-      "category": "Wedding",
-      "date": "2023-12-20"
+        "id": "39",
+        "title": {
+            "en": "NRNF.cz 10 year aniversary",
+            "cz": "NRNF.cz 10. výročí"
+        },
+        "leadText": {
+            "en": "Ten years of automotive passion celebrated at NRNF.cz, where a decade of shared dreams, roaring engines, and chrome-gleaming gatherings forged an enduring community of dedicated car enthusiasts.",
+            "cz": "Deset let automobilové vášně oslavené na NRNF.cz, kde dekáda sdílených snů, burácejících motorů a setkání s lesknoucím se chromem utvořila trvalou komunitu oddaných automobilových nadšenců."
+        },
+        "videoUrl": "https://cdn-video.trnka.one/39.mp4",
+        "thumbnail": "https://cdn-video.trnka.one/thumbnails/39.jpg",
+        "category": "Promo",
+        "date": "05/2018"
     },
     {
-      "id": "15",
-      "title": {
-        "en": "SMS Champions League 2016",
-        "cz": "SMS Champions League 2016"
-      },
-      "description": {
-        "en": "Documentary",
-        "cz": "Dokument"
-      },
-      "leadText": {
-        "en": "Exploring the haunting legacy of the Chernobyl exclusion zone.",
-        "cz": "Objevování znepokojivého odkazu černobylské zakázané zóny."
-      },
-      "videoUrl": "https://cdn-video.trnka.one/15.mp4",
-      "thumbnail": "https://cdn-video.trnka.one/thumbnails/15.jpg",
-      "category": "Promo",
-      "date": "2023-12-15"
+        "id": "24",
+        "title": {
+            "en": "Markétka & Mirek",
+            "cz": "Markétka & Mirek"
+        },
+        "leadText": {
+            "en": "A touching celebration of eternal devotion unfolded in the sacred church, where the groom's heartfelt guitar solo became a melodic testament to their boundless love.",
+            "cz": "Dojemná oslava věčné oddanosti se rozezněla posvátným prostorem kostela, kde ženichovo procítěné kytarové sólo zaznělo jako melodické vyznání jejich bezbřehé lásky."
+        },
+        "videoUrl": "https://cdn-video.trnka.one/24.mp4",
+        "thumbnail": "https://cdn-video.trnka.one/thumbnails/24.jpg",
+        "category": "Wedding",
+        "date": "05/2018"
     },
     {
-      "id": "16",
-      "title": {
-        "en": "Anička & Pavel",
-        "cz": "Anička & Pavel"
-      },
-      "description": {
-        "en": "Wedding celebration",
-        "cz": "Svatební oslava"
-      },
-      "leadText": {
-        "en": "A beautiful wedding celebration filled with love and joy.",
-        "cz": "Krásná svatební oslava plná lásky a radosti."
-      },
-      "videoUrl": "https://cdn-video.trnka.one/16.mp4",
-      "thumbnail": "https://cdn-video.trnka.one/thumbnails/16.jpg",
-      "category": "Wedding",
-      "date": "2023-12-10"
+        "id": "33",
+        "title": {
+            "en": "Showreel 2018",
+            "cz": "Showreel 2018"
+        },
+        "leadText": {
+            "en": "A dynamic visual odyssey spanning 2015 to 2018, this showreel weaves together diverse narratives—captivating promos, breathtaking travel moments, and intimate wedding stories—into a cinematic tapestry that celebrates the art of storytelling through film.",
+            "cz": "Dynamická vizuální odysea let 2015 až 2018 propojuje různorodé příběhy - poutavé propagační spoty, dechberoucí cestovatelské momenty a intimní svatební příběhy - do filmové mozaiky oslavující umění vyprávět skrze kinematografii."
+        },
+        "videoUrl": "https://cdn-video.trnka.one/33.mp4",
+        "thumbnail": "https://cdn-video.trnka.one/thumbnails/33.jpg",
+        "category": "Promo",
+        "date": "12/2017"
     },
     {
-      "id": "17",
-      "title": {
-        "en": "Veronika & Ondra",
-        "cz": "Veronika & Ondra"
-      },
-      "description": {
-        "en": "Corporate video",
-        "cz": "Firemní video"
-      },
-      "leadText": {
-        "en": "Showcasing excellence in business and innovation.",
-        "cz": "Prezentace excelence v podnikání a inovacích."
-      },
-      "videoUrl": "https://cdn-video.trnka.one/17.mp4",
-      "thumbnail": "https://cdn-video.trnka.one/thumbnails/17.jpg",
-      "category": "Wedding",
-      "date": "2023-12-05"
+        "id": "34",
+        "title": {
+            "en": "Brno - Drone October morning",
+            "cz": "Brno - Říjnové ráno z dronu"
+        },
+        "leadText": {
+            "en": "On a crisp October morning, a drone's silent flight captured the majestic Špilberk Castle in Brno, transforming historic grandeur into a breathtaking visual narrative that epitomizes creative excellence and cinematic potential.",
+            "cz": "Za svěžího říjnového rána zachytil tichý let dronu majestátní hrad Špilberk v Brně a proměnil jeho historickou vznešenost v úchvatné vizuální vyprávění, které ztělesňuje tvůrčí dokonalost a filmový potenciál."
+        },
+        "videoUrl": "https://cdn-video.trnka.one/34.mp4",
+        "thumbnail": "https://cdn-video.trnka.one/thumbnails/34.jpg",
+        "category": "Promo",
+        "date": "10/2017"
     },
     {
-      "id": "18",
-      "title": {
-        "en": "Terka & Mara",
-        "cz": "Terka & Mara"
-      },
-      "description": {
-        "en": "Nature documentary",
-        "cz": "Přírodní dokument"
-      },
-      "leadText": {
-        "en": "Exploring the natural beauty of Babí Lom.",
-        "cz": "Objevování přírodních krás Babího Lomu."
-      },
-      "videoUrl": "https://cdn-video.trnka.one/18.mp4",
-      "thumbnail": "https://cdn-video.trnka.one/thumbnails/18.jpg",
-      "category": "Wedding",
-      "date": "2023-11-30"
+        "id": "21",
+        "title": {
+            "en": "Peťa & Michail",
+            "cz": "Peťa & Michail"
+        },
+        "leadText": {
+            "en": "Two adventurous souls united their wanderlust in marriage, where shared horizons and dreams of exploration became the compass guiding their journey through life together.",
+            "cz": "Dvě dobrodružné duše spojily svou touhu po cestování v manželství, kde společné horizonty a sny o objevování se staly kompasem jejich společné životní cesty."
+        },
+        "videoUrl": "https://cdn-video.trnka.one/21.mp4",
+        "thumbnail": "https://cdn-video.trnka.one/thumbnails/21.jpg",
+        "category": "Wedding",
+        "date": "08/2017"
     },
     {
-      "id": "19",
-      "title": {
-        "en": "NRNF.cz Podzimní chill",
-        "cz": "NRNF.cz Podzimní chill"
-      },
-      "description": {
-        "en": "City exploration",
-        "cz": "Průzkum města"
-      },
-      "leadText": {
-        "en": "Discovering the vibrant culture of London.",
-        "cz": "Objevování živé kultury Londýna."
-      },
-      "videoUrl": "https://cdn-video.trnka.one/19.mp4",
-      "thumbnail": "https://cdn-video.trnka.one/thumbnails/19.jpg",
-      "category": "Promo",
-      "date": "2023-11-25"
+        "id": "20",
+        "title": {
+            "en": "Gabča & Ondra",
+            "cz": "Gabča & Ondra"
+        },
+        "leadText": {
+            "en": "A magical celebration bloomed in the castle gardens, where love soared skyward with countless balloons as cherished friends and family gathered to witness two hearts unite in romantic splendor.",
+            "cz": "Kouzelná oslava rozkvetla v zámecké zahradě, kde láska vzlétla k nebi s nesčetnými balónky, zatímco milovaní přátelé a rodina se sešli, aby byli svědky spojení dvou srdcí v romantické nádheře."
+        },
+        "videoUrl": "https://cdn-video.trnka.one/20.mp4",
+        "thumbnail": "https://cdn-video.trnka.one/thumbnails/20.jpg",
+        "category": "Wedding",
+        "date": "05/2017"
     },
     {
-      "id": "20",
-      "title": {
-        "en": "Gabča & Ondra",
-        "cz": "Gabča & Ondra"
-      },
-      "description": {
-        "en": "Wedding celebration",
-        "cz": "Svatební oslava"
-      },
-      "leadText": {
-        "en": "A romantic wedding in a historic venue.",
-        "cz": "Romantická svatba v historických prostorách."
-      },
-      "videoUrl": "https://cdn-video.trnka.one/20.mp4",
-      "thumbnail": "https://cdn-video.trnka.one/thumbnails/20.jpg",
-      "category": "Wedding",
-      "date": "2023-11-20"
-    },{
-      "id": "21",
-      "title": {
-        "en": "Peťa & Michail",
-        "cz": "Peťa & Michail"
-      },
-      "description": {
-        "en": "Travel documentary",
-        "cz": "Cestovatelský dokument"
-      },
-      "leadText": {
-        "en": "Exploring the vibrant culture and stunning landscapes of Hong Kong and China.",
-        "cz": "Objevování živé kultury a úchvatné krajiny Hong Kongu a Číny."
-      },
-      "videoUrl": "https://cdn-video.trnka.one/21.mp4",
-      "thumbnail": "https://cdn-video.trnka.one/thumbnails/21.jpg",
-      "category": "Wedding",
-      "date": "2024-01-15"
+        "id": "36",
+        "title": {
+            "en": "ČUN, how to get there?",
+            "cz": "ČUN, jak se k nám dostanete?"
+        },
+        "leadText": {
+            "en": "A concise navigational guide crafted with empathy and clarity, this instructional video offers a welcoming pathway to the Czech Union of the Deaf in Brno, ensuring accessibility and connection for all.",
+            "cz": "Instruktážní video, vytvořené s empatií a jasností, nabízí srozumitelného průvodce k Unii neslyšících Brno, zajišťující dostupnost a spojení pro všechny zájemce."
+        },
+        "videoUrl": "https://cdn-video.trnka.one/36.mp4",
+        "thumbnail": "https://cdn-video.trnka.one/thumbnails/36.jpg",
+        "category": "Promo",
+        "date": "03/2017"
     },
     {
-      "id": "22",
-      "title": {
-        "en": "Delikvent",
-        "cz": "Delikvent"
-      },
-      "description": {
-        "en": "Travel documentary",
-        "cz": "Cestovatelský dokument"
-      },
-      "leadText": {
-        "en": "Discovering the natural beauty of Czech Paradise.",
-        "cz": "Objevování přírodních krás Českého ráje."
-      },
-      "videoUrl": "https://cdn-video.trnka.one/22.mp4",
-      "thumbnail": "https://cdn-video.trnka.one/thumbnails/22.jpg",
-      "category": "Promo",
-      "date": "2024-01-10"
+        "id": "35",
+        "title": {
+            "en": "High Gear - selfdefense course",
+            "cz": "High Gear - kurz sebeobrany"
+        },
+        "leadText": {
+            "en": "An intense high-octane self-defense program that empowers individuals with crucial survival skills, transforming fear into confidence through dynamic training techniques that blend physical prowess with strategic personal protection.",
+            "cz": "Intenzivní program sebeobrany plný vysokého napětí dodává účastníkům klíčové dovednosti pro přežití, kde se strach mění v sebejistotu díky dynamickým tréninkovým technikám spojujícím fyzickou zdatnost se strategickou osobní ochranou."
+        },
+        "videoUrl": "https://cdn-video.trnka.one/35.mp4",
+        "thumbnail": "https://cdn-video.trnka.one/thumbnails/35.jpg",
+        "category": "Promo",
+        "date": "02/2017"
     },
     {
-      "id": "23",
-      "title": {
-        "en": "Kristýna & Adam",
-        "cz": "Kristýna & Adam"
-      },
-      "description": {
-        "en": "Travel documentary",
-        "cz": "Cestovatelský dokument"
-      },
-      "leadText": {
-        "en": "Exploring the stunning Adriatic coast and historic cities.",
-        "cz": "Objevování úchvatného jadranského pobřeží a historických měst."
-      },
-      "videoUrl": "https://cdn-video.trnka.one/23.mp4",
-      "thumbnail": "https://cdn-video.trnka.one/thumbnails/23.jpg",
-      "category": "Wedding",
-      "date": "2024-01-05"
+        "id": "37",
+        "title": {
+            "en": "New Year fireworks Bilovice nad Svitavou",
+            "cz": "Novoroční ohňostroj Bílovice nad Svitavou"
+        },
+        "leadText": {
+            "en": "A spectacular display of light and color illuminates the night sky above Bílovice nad Svitavou, where the village's New Year celebration transforms the tranquil valley into a dazzling canvas of festive pyrotechnics.",
+            "cz": "Velkolepá přehlídka světel a barev rozsvítila noční oblohu nad Bílovicemi nad Svitavou, kde novoroční oslavy proměnily poklidné údolí v oslnivé plátno slavnostní pyrotechniky."
+        },
+        "videoUrl": "https://cdn-video.trnka.one/37.mp4",
+        "thumbnail": "https://cdn-video.trnka.one/thumbnails/37.jpg",
+        "category": "Promo",
+        "date": "01/2017"
     },
     {
-      "id": "24",
-      "title": {
-        "en": "Markétka & Mirek",
-        "cz": "Markétka & Mirek"
-      },
-      "description": {
-        "en": "Travel documentary",
-        "cz": "Cestovatelský dokument"
-      },
-      "leadText": {
-        "en": "Capturing the spirit and culture of Ukraine's capital.",
-        "cz": "Zachycení ducha a kultury ukrajinského hlavního města."
-      },
-      "videoUrl": "https://cdn-video.trnka.one/24.mp4",
-      "thumbnail": "https://cdn-video.trnka.one/thumbnails/24.jpg",
-      "category": "Wedding",
-      "date": "2023-12-20"
+        "id": "19",
+        "title": {
+            "en": "NRNF.cz's Fall Chill",
+            "cz": "NRNF.cz Podzimní chill"
+        },
+        "leadText": {
+            "en": "A spirited autumn gathering of passionate car enthusiasts unites at NRNF.cz's Fall Chill, where chrome gleams and engines purr as kindred spirits share their automotive dreams along winding roads.",
+            "cz": "Nadšení automobiloví fanoušci se sešli na setkání NRNF.cz Podzimní Chill, kde v zatáčkách lesklý chrom a předoucí motory spojují spřízněné duše sdílející své automobilové sny."
+        },
+        "videoUrl": "https://cdn-video.trnka.one/19.mp4",
+        "thumbnail": "https://cdn-video.trnka.one/thumbnails/19.jpg",
+        "category": "Promo",
+        "date": "10/2016"
     },
     {
-      "id": "25",
-      "title": {
-        "en": "Kačenka & Honzík",
-        "cz": "Kačenka & Honzík"
-      },
-      "description": {
-        "en": "Documentary",
-        "cz": "Dokument"
-      },
-      "leadText": {
-        "en": "Exploring the haunting legacy of the Chernobyl exclusion zone.",
-        "cz": "Objevování znepokojivého odkazu černobylské zakázané zóny."
-      },
-      "videoUrl": "https://cdn-video.trnka.one/25.mp4",
-      "thumbnail": "https://cdn-video.trnka.one/thumbnails/25.jpg",
-      "category": "Wedding",
-      "date": "2023-12-15"
+        "id": "32",
+        "title": {
+            "en": "Motorbike journey",
+            "cz": "Putování na motorce"
+        },
+        "leadText": {
+            "en": "A raw and exhilarating motorcycle odyssey traversing the rugged landscapes of Croatia, Albania, and Bosnia and Herzegovina, capturing the unbridled spirit of adventure, freedom, and the untamed beauty of the Balkan Peninsula.",
+            "cz": "Syrová a strhující motorkářská odysea napříč drsnou krajinou Chorvatska, Albánie a Bosny a Hercegoviny zachycuje nezpoutaného ducha dobrodružství, svobody a divoké krásy Balkánského poloostrova."
+        },
+        "videoUrl": "https://cdn-video.trnka.one/32.mp4",
+        "thumbnail": "https://cdn-video.trnka.one/thumbnails/32.jpg",
+        "category": "Travel",
+        "date": "06/2017"
     },
     {
-      "id": "26",
-      "title": {
-        "en": "Peťa & Milan",
-        "cz": "Peťa & Milan"
-      },
-      "description": {
-        "en": "Wedding celebration",
-        "cz": "Svatební oslava"
-      },
-      "leadText": {
-        "en": "A beautiful wedding celebration filled with love and joy.",
-        "cz": "Krásná svatební oslava plná lásky a radosti."
-      },
-      "videoUrl": "https://cdn-video.trnka.one/26.mp4",
-      "thumbnail": "https://cdn-video.trnka.one/thumbnails/26.jpg",
-      "category": "Wedding",
-      "date": "2023-12-10"
+        "id": "18",
+        "title": {
+            "en": "Terka & Mara",
+            "cz": "Terka & Mara"
+        },
+        "leadText": {
+            "en": "A serendipitous tale of two hearts from distant corners of the Czech Republic converging in Prague's embrace, where their destined paths merged into a magnificent celebration of newfound love.",
+            "cz": "Příběh dvou srdcí z opačných koutů České republiky, která se našla v náručí Prahy, kde jejich osudem předurčené cesty splynuly v nádhernou oslavu zrozené lásky."
+        },
+        "videoUrl": "https://cdn-video.trnka.one/18.mp4",
+        "thumbnail": "https://cdn-video.trnka.one/thumbnails/18.jpg",
+        "category": "Wedding",
+        "date": "09/2016"
     },
     {
-      "id": "27",
-      "title": {
-        "en": "Romča & Romča",
-        "cz": "Romča & Romča"
-      },
-      "description": {
-        "en": "Corporate video",
-        "cz": "Firemní video"
-      },
-      "leadText": {
-        "en": "Showcasing excellence in business and innovation.",
-        "cz": "Prezentace excelence v podnikání a inovacích."
-      },
-      "videoUrl": "https://cdn-video.trnka.one/27.mp4",
-      "thumbnail": "https://cdn-video.trnka.one/thumbnails/27.jpg",
-      "category": "Wedding",
-      "date": "2023-12-05"
+        "id": "17",
+        "title": {
+            "en": "Veronika & Ondra",
+            "cz": "Veronika & Ondra"
+        },
+        "leadText": {
+            "en": "Near Zlín, the first winners of our wedding video contest found their bliss in an old barn, where rustic charm created the perfect backdrop for their extraordinary day.            ",
+            "cz": "Blízko Zlína objevili první vítězové soutěže o svatební natáčení své štěstí ve staré stodole, kde rustikální kouzlo vytvořilo dokonalou kulisu pro jejich mimořádný den."
+        },
+        "videoUrl": "https://cdn-video.trnka.one/17.mp4",
+        "thumbnail": "https://cdn-video.trnka.one/thumbnails/17.jpg",
+        "category": "Wedding",
+        "date": "08/2016"
     },
     {
-      "id": "28",
-      "title": {
-        "en": "Dostálovi",
-        "cz": "Dostálovi"
-      },
-      "description": {
-        "en": "Nature documentary",
-        "cz": "Přírodní dokument"
-      },
-      "leadText": {
-        "en": "Exploring the natural beauty of Babí Lom.",
-        "cz": "Objevování přírodních krás Babího Lomu."
-      },
-      "videoUrl": "https://cdn-video.trnka.one/28.mp4",
-      "thumbnail": "https://cdn-video.trnka.one/thumbnails/28.jpg",
-      "category": "Wedding",
-      "date": "2023-11-30"
+        "id": "16",
+        "title": {
+            "en": "Anička & Pavel",
+            "cz": "Anička & Pavel"
+        },
+        "leadText": {
+            "en": "A radiant celebration of enduring love illuminated the shores of Brno Reservoir, where years of pure devotion culminated in a joyous wedding that transformed the lakeside into a sanctuary of romance.",
+            "cz": "Zářivá oslava dlouhotrvající lásky rozzářila břehy Brněnské přehrady, kde roky ryzí oddanosti vyvrcholily radostnou svatbou proměňující nábřeží v oázu romantiky."
+        },
+        "videoUrl": "https://cdn-video.trnka.one/16.mp4",
+        "thumbnail": "https://cdn-video.trnka.one/thumbnails/16.jpg",
+        "category": "Wedding",
+        "date": "07/2016"
     },
     {
-      "id": "29",
-      "title": {
-        "en": "Karolína & Ondra",
-        "cz": "Karolína & Ondra"
-      },
-      "description": {
-        "en": "City exploration",
-        "cz": "Průzkum města"
-      },
-      "leadText": {
-        "en": "Discovering the vibrant culture of London.",
-        "cz": "Objevování živé kultury Londýna."
-      },
-      "videoUrl": "https://cdn-video.trnka.one/29.mp4",
-      "thumbnail": "https://cdn-video.trnka.one/thumbnails/29.jpg",
-      "category": "Wedding",
-      "date": "2023-11-25"
+        "id": "15",
+        "title": {
+            "en": "SMS Champions League 2016",
+            "cz": "SMS Champions League 2016"
+        },
+        "leadText": {
+            "en": "A groundbreaking charity football tournament, SMS Champions League united compassionate players and supporters in a powerful mission to transform one young boy's life, turning athletic passion into a beacon of hope and community support.",
+            "cz": "Průlomový charitativní fotbalový turnaj SMS Champions League spojil soucitné hráče a fanoušky v silném poslání změnit život jednoho malého chlapce, kde sportovní nadšení se proměnilo v maják naděje a podpory komunity."
+        },
+        "videoUrl": "https://cdn-video.trnka.one/15.mp4",
+        "thumbnail": "https://cdn-video.trnka.one/thumbnails/15.jpg",
+        "category": "Promo",
+        "date": "06/2016"
     },
     {
-      "id": "30",
-      "title": {
-        "en": "Direct.cz - Mobile technician",
-        "cz": "Direct.cz - Mobilní technik"
-      },
-      "description": {
-        "en": "Wedding celebration",
-        "cz": "Svatební oslava"
-      },
-      "leadText": {
-        "en": "A romantic wedding in a historic venue.",
-        "cz": "Romantická svatba v historických prostorách."
-      },
-      "videoUrl": "https://cdn-video.trnka.one/30.mp4",
-      "thumbnail": "https://cdn-video.trnka.one/thumbnails/30.jpg",
-      "category": "Promo",
-      "date": "2023-11-20"
-    },{
-      "id": "31",
-      "title": {
-        "en": "FutureGate 2024 Brno",
-        "cz": "FutureGate 2024 Brno"
-      },
-      "description": {
-        "en": "Travel documentary",
-        "cz": "Cestovatelský dokument"
-      },
-      "leadText": {
-        "en": "Exploring the vibrant culture and stunning landscapes of Hong Kong and China.",
-        "cz": "Objevování živé kultury a úchvatné krajiny Hong Kongu a Číny."
-      },
-      "videoUrl": "https://cdn-video.trnka.one/31.mp4",
-      "thumbnail": "https://cdn-video.trnka.one/thumbnails/31.jpg",
-      "category": "Promo",
-      "date": "2024-01-15"
+        "id": "14",
+        "title": {
+            "en": "Leontýnka & Tomáš",
+            "cz": "Leontýnka & Tomáš"
+        },
+        "leadText": {
+            "en": "A fairy tale romance springs to life as his princely courage meets her regal grace, their love story blossoming into a modern enchantment where chivalry and destiny intertwine.",
+            "cz": "Její jméno nese královskou vznešenost a jeho odvaha připomíná prince, který si přišel pro svou vyvolenou, aby ji pojal za ženu v příběhu jak z pohádky."
+        },
+        "videoUrl": "https://cdn-video.trnka.one/14.mp4",
+        "thumbnail": "https://cdn-video.trnka.one/thumbnails/14.jpg",
+        "category": "Wedding",
+        "date": "06/2016"
     },
     {
-      "id": "32",
-      "title": {
-        "en": "Motorbike journey",
-        "cz": "Putování na motorce"
-      },
-      "description": {
-        "en": "Travel documentary",
-        "cz": "Cestovatelský dokument"
-      },
-      "leadText": {
-        "en": "Discovering the natural beauty of Czech Paradise.",
-        "cz": "Objevování přírodních krás Českého ráje."
-      },
-      "videoUrl": "https://cdn-video.trnka.one/32.mp4",
-      "thumbnail": "https://cdn-video.trnka.one/thumbnails/32.jpg",
-      "category": "Travel",
-      "date": "2024-01-10"
+        "id": "13",
+        "title": {
+            "en": "Martička & Petr",
+            "cz": "Martička & Petr"
+        },
+        "leadText": {
+            "en": "Music beats as the heart of their profound connection, where two souls dance through life's symphony, their endless love composing a perfect harmony of shared passion and devotion.",
+            "cz": "Hudba tepe jako srdce jejich hlubokého spojení, kde dvě duše tančí životní symfonií a jejich nekonečná láska skládá dokonalou harmonii společné vášně a oddanosti."
+        },
+        "videoUrl": "https://cdn-video.trnka.one/13.mp4",
+        "thumbnail": "https://cdn-video.trnka.one/thumbnails/13.jpg",
+        "category": "Wedding",
+        "date": "06/2016"
     },
     {
-      "id": "33",
-      "title": {
-        "en": "Showreel 2018",
-        "cz": "Showreel 2018"
-      },
-      "description": {
-        "en": "Travel documentary",
-        "cz": "Cestovatelský dokument"
-      },
-      "leadText": {
-        "en": "Exploring the stunning Adriatic coast and historic cities.",
-        "cz": "Objevování úchvatného jadranského pobřeží a historických měst."
-      },
-      "videoUrl": "https://cdn-video.trnka.one/33.mp4",
-      "thumbnail": "https://cdn-video.trnka.one/thumbnails/33.jpg",
-      "category": "Promo",
-      "date": "2024-01-05"
+        "id": "12",
+        "title": {
+            "en": "Japonsko",
+            "cz": "Japonsko"
+        },
+        "leadText": {
+            "en": "A vibrant journey through Japan's soul in May 2016, weaving through Tokyo's modern pulse, Kyoto's timeless grace, Osaka's dynamic spirit, and Hiroshima's profound legacy—each city revealing its unique cultural tapestry.",
+            "cz": "Živoucí cesta japonskou duší v květnu 2016 vedla tepem moderního Tokia, nadčasovou grácií Kjóta, dynamickým duchem Ósaky a hlubokým odkazem Hirošimy - každé město odhalilo svůj jedinečný kulturní obraz."
+        },
+        "videoUrl": "https://cdn-video.trnka.one/12.mp4",
+        "thumbnail": "https://cdn-video.trnka.one/thumbnails/12.jpg",
+        "category": "Travel",
+        "date": "05/2016"
     },
     {
-      "id": "34",
-      "title": {
-        "en": "Brno - Drone October morning",
-        "cz": "Brno - Říjnové ráno z dronu"
-      },
-      "description": {
-        "en": "Travel documentary",
-        "cz": "Cestovatelský dokument"
-      },
-      "leadText": {
-        "en": "Capturing the spirit and culture of Ukraine's capital.",
-        "cz": "Zachycení ducha a kultury ukrajinského hlavního města."
-      },
-      "videoUrl": "https://cdn-video.trnka.one/34.mp4",
-      "thumbnail": "https://cdn-video.trnka.one/thumbnails/34.jpg",
-      "category": "Promo",
-      "date": "2023-12-20"
+        "id": "38",
+        "title": {
+            "en": "Rockopera Antigona",
+            "cz": "Rockopera Antigona"
+        },
+        "leadText": {
+            "en": "A groundbreaking fusion of operatic grandeur and raw metal power, this pioneering production ignited a cultural phenomenon, spawning a Rockopera legacy that continues to electrify audiences more than 15 years later.",
+            "cz": "Průkopnické spojení operní velkoleposti a syrové metalové síly zažehlo kulturní fenomén - tato novátorská produkce odstartovala dědictví Rockopery, které elektrizuje publikum i po více než 15 letech."
+        },
+        "videoUrl": "https://cdn-video.trnka.one/38.mp4",
+        "thumbnail": "https://cdn-video.trnka.one/thumbnails/38.jpg",
+        "category": "Promo",
+        "date": "04/2016"
     },
     {
-      "id": "35",
-      "title": {
-        "en": "High Gear - selfdefense course",
-        "cz": "High Gear - kurz sebeobrany"
-      },
-      "description": {
-        "en": "Documentary",
-        "cz": "Dokument"
-      },
-      "leadText": {
-        "en": "Exploring the haunting legacy of the Chernobyl exclusion zone.",
-        "cz": "Objevování znepokojivého odkazu černobylské zakázané zóny."
-      },
-      "videoUrl": "https://cdn-video.trnka.one/35.mp4",
-      "thumbnail": "https://cdn-video.trnka.one/thumbnails/35.jpg",
-      "category": "Promo",
-      "date": "2023-12-15"
+        "id": "11",
+        "title": {
+            "en": "Prochy Racing 86 Autocross",
+            "cz": "Prochy Racing 86 Autocross"
+        },
+        "leadText": {
+            "en": "A gritty spectacle of raw power and skill as engines roar through April's rain-soaked terrain, where drivers battle both machine and mud in an exhilarating display of off-road determination.",
+            "cz": "Drsná podívaná plná syrové síly a řidičského umu, kde motory burácí dubnovým promáčeným terénem a jezdci svádějí napínavý souboj se stroji i bahnem v působivé ukázce off-roadové houževnatosti."
+        },
+        "videoUrl": "https://cdn-video.trnka.one/11.mp4",
+        "thumbnail": "https://cdn-video.trnka.one/thumbnails/11.jpg",
+        "category": "Promo",
+        "date": "04/2016"
     },
     {
-      "id": "36",
-      "title": {
-        "en": "ČUN, how to get there?",
-        "cz": "ČUN, jak se k nám dostanete?"
-      },
-      "description": {
-        "en": "Wedding celebration",
-        "cz": "Svatební oslava"
-      },
-      "leadText": {
-        "en": "A beautiful wedding celebration filled with love and joy.",
-        "cz": "Krásná svatební oslava plná lásky a radosti."
-      },
-      "videoUrl": "https://cdn-video.trnka.one/36.mp4",
-      "thumbnail": "https://cdn-video.trnka.one/thumbnails/36.jpg",
-      "category": "Promo",
-      "date": "2023-12-10"
+        "id": "10",
+        "title": {
+            "en": "Lenka & Bolek",
+            "cz": "Lenka & Bolek"
+        },
+        "leadText": {
+            "en": "A heartfelt celebration of love unfolded at Brno's historic Villa Stiassni, where cherished friends exchanged vows surrounded by closest family, blending architectural elegance with intimate warmth of companionship.",
+            "cz": "Srdečná oslava lásky se rozvinula v historické brněnské vile Stiassni, kde si milí přátelé vyměnili sliby v kruhu nejbližší rodiny a propojili architektonickou eleganci s důvěrným teplem přátelství."
+        },
+        "videoUrl": "https://cdn-video.trnka.one/10.mp4",
+        "thumbnail": "https://cdn-video.trnka.one/thumbnails/10.jpg",
+        "category": "Wedding",
+        "date": "03/2016"
     },
     {
-      "id": "37",
-      "title": {
-        "en": "New years fireworks Bilovice nad Svitavou",
-        "cz": "Novoroční ohňostroj Bílovice nad Svitavou"
-      },
-      "description": {
-        "en": "Corporate video",
-        "cz": "Firemní video"
-      },
-      "leadText": {
-        "en": "Showcasing excellence in business and innovation.",
-        "cz": "Prezentace excelence v podnikání a inovacích."
-      },
-      "videoUrl": "https://cdn-video.trnka.one/37.mp4",
-      "thumbnail": "https://cdn-video.trnka.one/thumbnails/37.jpg",
-      "category": "Promo",
-      "date": "2023-12-05"
+        "id": "9",
+        "title": {
+            "en": "London",
+            "cz": "Londýn"
+        },
+        "leadText": {
+            "en": "A spirited group of eight explorers braved January's winter charm to discover London's timeless treasures, weaving through historic landmarks that transformed the city's ancient stones into living stories of wonder and discovery.",
+            "cz": "Odvážná osmičlenná skupina objevitelů čelila lednovému kouzlu zimy při poznávání nadčasových pokladů Londýna, kde při procházení historickými památkami proměnila prastaré kameny města v živoucí příběhy úžasu a objevování."
+        },
+        "videoUrl": "https://cdn-video.trnka.one/09.mp4",
+        "thumbnail": "https://cdn-video.trnka.one/thumbnails/09.jpg",
+        "category": "Travel",
+        "date": "01/2016"
     },
     {
-      "id": "38",
-      "title": {
-        "en": "Rockopera Antigona",
-        "cz": "Rockopera Antigona"
-      },
-      "description": {
-        "en": "Nature documentary",
-        "cz": "Přírodní dokument"
-      },
-      "leadText": {
-        "en": "Exploring the natural beauty of Babí Lom.",
-        "cz": "Objevování přírodních krás Babího Lomu."
-      },
-      "videoUrl": "https://cdn-video.trnka.one/38.mp4",
-      "thumbnail": "https://cdn-video.trnka.one/thumbnails/38.jpg",
-      "category": "Promo",
-      "date": "2023-11-30"
+        "id": "8",
+        "title": {
+            "en": "Babí Lom",
+            "cz": "Babí Lom"
+        },
+        "leadText": {
+            "en": "Towering above Brno's landscape, Babí Lom's rugged peaks and ancient rock formations offer breathtaking panoramas of the Moravian countryside, where hiking trails wind through pristine wilderness just minutes from the city.",
+            "cz": "Tyčící se nad brněnskou krajinou, drsné vrcholy a prastaré skalní útvary Babí lomu nabízejí dechberoucí výhledy na moravský venkov, kde se turistické stezky vinou nedotčenou přírodou jen pár minut od města."
+        },
+        "videoUrl": "https://cdn-video.trnka.one/08.mp4",
+        "thumbnail": "https://cdn-video.trnka.one/thumbnails/08.jpg",
+        "category": "Travel",
+        "date": "10/2015"
     },
     {
-      "id": "39",
-      "title": {
-        "en": "NRNF.cz 10 year aniversary",
-        "cz": "NRNF.cz 10. výročí"
-      },
-      "description": {
-        "en": "City exploration",
-        "cz": "Průzkum města"
-      },
-      "leadText": {
-        "en": "Discovering the vibrant culture of London.",
-        "cz": "Objevování živé kultury Londýna."
-      },
-      "videoUrl": "https://cdn-video.trnka.one/39.mp4",
-      "thumbnail": "https://cdn-video.trnka.one/thumbnails/39.jpg",
-      "category": "Promo",
-      "date": "2023-11-25"
+        "id": "7",
+        "title": {
+            "en": "Gemini Pohořelice",
+            "cz": "Gemini Pohořelice"
+        },
+        "leadText": {
+            "en": "A pulsating resurrection of nightlife as this legendary discohouse awakens from its three-year slumber, igniting an electrifying grand reopening where music, lights, and celebration mark its triumphant return.",
+            "cz": "Pulzující znovuzrození nočního života, kdy se tato legendární diskotéka probouzí z tříletého spánku a zapaluje elektrizující slavnostní znovuotevření, kde hudba, světla a oslavy značí její triumfální návrat."
+        },
+        "videoUrl": "https://cdn-video.trnka.one/07.mp4",
+        "thumbnail": "https://cdn-video.trnka.one/thumbnails/07.jpg",
+        "category": "Promo",
+        "date": "10/2015"
     },
     {
-      "id": "40",
-      "title": {
-        "en": "Stella baptism",
-        "cz": "Křest Stelly"
-      },
-      "description": {
-        "en": "Wedding celebration",
-        "cz": "Svatební oslava"
-      },
-      "leadText": {
-        "en": "A romantic wedding in a historic venue.",
-        "cz": "Romantická svatba v historických prostorách."
-      },
-      "videoUrl": "https://cdn-video.trnka.one/40.mp4",
-      "thumbnail": "https://cdn-video.trnka.one/thumbnails/40.jpg",
-      "category": "Promo",
-      "date": "2023-11-20"
+        "id": "6",
+        "title": {
+            "en": "Martina & Ondra",
+            "cz": "Martina & Ondra"
+        },
+        "leadText": {
+            "en": "A cherished milestone captured in tender frames as two friends united in matrimony at an intimate chapel near Rudice, where friendship blossomed into love amid the picturesque charm of South Moravia.",
+            "cz": "První svatební natáčení zachytilo něžné okamžiky sňatku dvou přátel v útulné kapli nedaleko Rudic, kde přátelství rozkvetlo v lásku uprostřed malebného půvabu jižní Moravy."
+        },
+        "videoUrl": "https://cdn-video.trnka.one/06.mp4",
+        "thumbnail": "https://cdn-video.trnka.one/thumbnails/06-foto.jpg",
+        "category": "Wedding",
+        "date": "09/2015"
     },
     {
-      "id": "41",
-      "title": {
-        "en": "Bolek 30.",
-        "cz": "Bolek 30."
-      },
-      "description": {
-        "en": "Wedding celebration",
-        "cz": "Svatební oslava"
-      },
-      "leadText": {
-        "en": "A romantic wedding in a historic venue.",
-        "cz": "Romantická svatba v historických prostorách."
-      },
-      "videoUrl": "https://cdn-video.trnka.one/41.mp4",
-      "thumbnail": "https://cdn-video.trnka.one/thumbnails/41.jpg",
-      "category": "Promo",
-      "date": "2023-11-20"
+        "id": "41",
+        "title": {
+            "en": "Bolek 30.",
+            "cz": "Bolek 30."
+        },
+        "leadText": {
+            "en": "A milestone celebration captures the vibrant spirit of entering life's third decade, where youthful energy meets mature reflection, marking a pivotal moment of personal evolution and joyful commemoration.",
+            "cz": "Oslava životního milníku zachycuje živého ducha vstupu do třetí dekády života, kde se mladistvá energie snoubí se zralou reflexí a vytváří zásadní moment osobního vývoje a radostných vzpomínek."
+        },
+        "videoUrl": "https://cdn-video.trnka.one/41.mp4",
+        "thumbnail": "https://cdn-video.trnka.one/thumbnails/41.jpg",
+        "category": "Promo",
+        "date": "08/2015"
+    },
+    {
+        "id": "5",
+        "title": {
+            "en": "Chernobyl",
+            "cz": "Černobyl"
+        },
+        "leadText": {
+            "en": "A haunting journey through time as summer heat embraces Chernobyl's exclusion zone, where nature reclaims abandoned streets and silent buildings stand as powerful testimonies to humanity's most sobering nuclear legacy.",
+            "cz": "Mrazivá cesta časem, kdy letní žár objímá černobylskou zakázanou zónu - místo, kde si příroda bere zpět opuštěné ulice a tiché budovy stojí jako mocné svědectví nejstřízlivějšího jaderného odkazu lidstva."
+        },
+        "videoUrl": "https://cdn-video.trnka.one/05.mp4",
+        "thumbnail": "https://cdn-video.trnka.one/thumbnails/05.jpg",
+        "category": "Travel",
+        "date": "08/2015"
+    },
+    {
+        "id": "4",
+        "title": {
+            "en": "Kiev",
+            "cz": "Kyjev"
+        },
+        "leadText": {
+            "en": "Kiev's resilient soul pulses through its streets one year after Maidan's revolution, where fresh wounds transform into symbols of hope, as citizens forge ahead, weaving new chapters of cultural rebirth amid profound change.",
+            "cz": "Rok po Majdanské revoluci pulzuje kyjevskými ulicemi nezlomný duch města, kde se čerstvé rány mění v symboly naděje a obyvatelé směle kráčí vpřed, píšíce nové kapitoly kulturního znovuzrození uprostřed hluboké proměny."
+        },
+        "videoUrl": "https://cdn-video.trnka.one/04.mp4",
+        "thumbnail": "https://cdn-video.trnka.one/thumbnails/04.jpg",
+        "category": "Travel",
+        "date": "08/2015"
+    },
+    {
+        "id": "3",
+        "title": {
+            "en": "Croatia",
+            "cz": "Chorvatsko"
+        },
+        "leadText": {
+            "en": "Along Croatia's jeweled Adriatic shoreline, the island of Pašman reveals its timeless charm through crystalline waters, ancient stone villages, and untouched Mediterranean landscapes that whisper tales of centuries past.",
+            "cz": "Podél klenotnice chorvatského jadranského pobřeží odkrývá ostrov Pašman své nadčasové kouzlo průzračnými vodami, prastarými kamennými vesničkami a nedotčenou středomořskou krajinou, která šeptá příběhy dávných staletí."
+        },
+        "videoUrl": "https://cdn-video.trnka.one/03.mp4",
+        "thumbnail": "https://cdn-video.trnka.one/thumbnails/03.jpg",
+        "category": "Travel",
+        "date": "06/2015"
+    },
+    {
+        "id": "2",
+        "title": {
+            "en": "Český Ráj",
+            "cz": "Český Ráj"
+        },
+        "leadText": {
+            "en": "Majestic sandstone towers pierce the emerald forests of Český ráj, where ancient rock formations, mystical castles, and winding trails create a fairytale landscape that perfectly embodies its name: Czech Paradise.",
+            "cz": "Majestátní pískovcové věže se tyčí nad smaragdovými lesy Českého ráje, kde prastaré skalní útvary, tajemné hrady a klikaté stezky vytvářejí pohádkovou krajinu, která dokonale vystihuje své jméno: Český ráj."
+        },
+        "videoUrl": "https://cdn-video.trnka.one/02.mp4",
+        "thumbnail": "https://cdn-video.trnka.one/thumbnails/02.jpg",
+        "category": "Travel",
+        "date": "05/2015"
     }
-  ],
+],
   "testimonials": [
     {
       "name": "Boleslav Daška",
