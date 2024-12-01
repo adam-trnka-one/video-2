@@ -21,7 +21,7 @@
 | 28  | Verča & Kuba                | 09/2021 | Wedding |         |
 | 27  | Romča & Romča               | 07/2021 | Wedding |         |
 | 26  | Peťa & Milan                | 09/2020 | Wedding |         |
-| 25  | Kačenka & Honzík            | 09/2020 | Wedding |         |
+| 25  | Kačenka & Honzík            | 09/2020 | Wedding | Hidden  |
 | 42  | Dášenka & Martin            | 09/2019 | Wedding |         |
 | 40  | Stella                      | 10/2018 | Promo   |         |
 | 22  | Delikvent                   | 09/2018 | Film    |         |
@@ -55,7 +55,7 @@
 | 5   | Černobyl                    | 08/2015 | Travel  |         |
 | 4   | Kyjev                       | 08/2015 | Travel  |         |
 | 3   | Chorvatsko                  | 06/2015 | Travel  |         |
-| 2   | Český Ráj                   | 05/2015 | Travel  |         |
-| 1   | Hong Kong & China           | 11/2014 | Travel  |         |
+| 2   | Český Ráj                   | 05/2015 | Travel  | Hidden  |
+| 1   | Hong Kong & China           | 11/2014 | Travel  | Photos  |
 
 -- Adam Trnka

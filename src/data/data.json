@@ -91,21 +91,6 @@
         "date": "09/2020"
     },
     {
-        "id": "25",
-        "title": {
-            "en": "Kačenka & Honzík",
-            "cz": "Kačenka & Honzík"
-        },
-        "leadText": {
-            "en": "A mesmerizing celebration of love, where the newlyweds' shared passion for dance became the heartbeat of their wedding, symbolizing their journey of rhythm, connection, and harmony through life's intricate choreography.",
-            "cz": "Podmanivá oslava lásky, kde se společná vášeň novomanželů pro tanec stala srdečním tepem jejich svatby, symbolizující jejich společnou cestu rytmu, spojení a harmonie životní choreografií."
-        },
-        "videoUrl": "https://cdn-video.trnka.one/25.mp4",
-        "thumbnail": "https://cdn-video.trnka.one/thumbnails/25.jpg",
-        "category": "Wedding",
-        "date": "09/2020"
-    },
-    {
         "id": "42",
         "title": {
             "en": "Dagmar & Martin",
@@ -599,21 +584,6 @@
         "thumbnail": "https://cdn-video.trnka.one/thumbnails/03.jpg",
         "category": "Travel",
         "date": "06/2015"
-    },
-    {
-        "id": "2",
-        "title": {
-            "en": "Český Ráj",
-            "cz": "Český Ráj"
-        },
-        "leadText": {
-            "en": "Majestic sandstone towers pierce the emerald forests of Český ráj, where ancient rock formations, mystical castles, and winding trails create a fairytale landscape that perfectly embodies its name: Czech Paradise.",
-            "cz": "Majestátní pískovcové věže se tyčí nad smaragdovými lesy Českého ráje, kde prastaré skalní útvary, tajemné hrady a klikaté stezky vytvářejí pohádkovou krajinu, která dokonale vystihuje své jméno: Český ráj."
-        },
-        "videoUrl": "https://cdn-video.trnka.one/02.mp4",
-        "thumbnail": "https://cdn-video.trnka.one/thumbnails/02.jpg",
-        "category": "Travel",
-        "date": "05/2015"
     }
 ],
   "testimonials": [
