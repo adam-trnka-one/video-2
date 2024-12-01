@@ -33,7 +33,7 @@
 | 21  | Peťa & Michail              | 08/2017 | Wedding |         |
 | 20  | Gabča & Ondra               | 05/2017 | Wedding |         |
 | 36  | ČUN                         | 03/2017 | Promo   |         |
-| 35  | High Gear - kurz obrany     | 02/2017 | Promo   |         |
+| 35  | High Gear - kurz obrany     | 02/2017 | Promo   | Hidden  |
 | 37  | Ohňostroj Bílovice          | 01/2017 | Promo   |         |
 | 19  | NRNF.cz Podzimní chill      | 10/2016 | Promo   |         |
 | 32  | Putování na motorce         | 06/2017 | Promo   |         |
