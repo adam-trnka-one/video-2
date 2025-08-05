@@ -1,6 +1,21 @@
 {
   "projects": [
     {
+        "id": "32",
+        "title": {
+            "en": "Peťa & Tomáš",
+            "cz": "Peťa & Tomáš"
+        },
+        "leadText": {
+            "en": "A bit of a car-lover's wedding - celebrating an amazing couple who found happiness, love, and deep understanding (just ask little Kubík!). It was beautiful to witness so many friends, so much love… and more than a few happy tears.",
+            "cz": "Tak trochu autíčkářská svatba úžasného páru, který nalezl štěstí, lásku a porozumění - a Kubík to může dosvědčit. Bylo skvělé vidět tolik přátel, tolik lásky… a tolik poplakaných kapesníčků."
+        },
+        "videoUrl": "https://cdn-video.trnka.one/43.mp4",
+        "thumbnail": "https://cdn-video.trnka.one/thumbnails/43.jpg",
+        "category": "Promo",
+        "date": "06/2025"
+    },
+    {
         "id": "31",
         "title": {
             "en": "FutureGate 2024 Brno",
